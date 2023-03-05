@@ -3,3 +3,8 @@ node_modules/
 _site
 .env
 package-lock.json
+
+# Ignore for clean branch
+database/tweet.db
+img/
+video/
