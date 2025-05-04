@@ -77,7 +77,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/yqnvxX41gm",
-            "expanded_url" : "https://meiert.com/en/blog/mastodon-quick-tips/",
+            "expanded_url" : "https://meiert.com/blog/mastodon-quick-tips/",
             "display_url" : "meiert.com/en/blog/mastod…",
             "indices" : [
               "50",
@@ -123,7 +123,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/o9vofB3Mph",
-            "expanded_url" : "https://meiert.com/en/blog/minimal-dark-mode/",
+            "expanded_url" : "https://meiert.com/blog/minimal-dark-mode/",
             "display_url" : "meiert.com/en/blog/minima…",
             "indices" : [
               "22",
@@ -771,7 +771,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/xMeqew6e6u",
-            "expanded_url" : "https://meiert.com/en/blog/how-to-order-css-selectors/",
+            "expanded_url" : "https://meiert.com/blog/how-to-order-css-selectors/",
             "display_url" : "meiert.com/en/blog/how-to…",
             "indices" : [
               "265",
@@ -1977,7 +1977,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/SsE2Q5YCMJ",
-            "expanded_url" : "https://meiert.com/en/blog/the-google-error-page/",
+            "expanded_url" : "https://meiert.com/blog/the-google-error-page/",
             "display_url" : "meiert.com/en/blog/the-go…",
             "indices" : [
               "80",
@@ -2612,7 +2612,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/sByNMSEsVz",
-            "expanded_url" : "https://meiert.com/en/blog/optimization-measures-15/",
+            "expanded_url" : "https://meiert.com/blog/optimization-measures-15/",
             "display_url" : "meiert.com/en/blog/optimi…",
             "indices" : [
               "251",
@@ -4439,7 +4439,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/dUHkKWkQL7",
-            "expanded_url" : "https://meiert.com/en/blog/valid-html-2021/",
+            "expanded_url" : "https://meiert.com/blog/valid-html-2021/",
             "display_url" : "meiert.com/en/blog/valid-…",
             "indices" : [
               "101",
@@ -4448,7 +4448,7 @@ module.exports = [
           },
           {
             "url" : "https://t.co/wXZgoSk63A",
-            "expanded_url" : "https://meiert.com/en/blog/critical-frontend-development/",
+            "expanded_url" : "https://meiert.com/blog/critical-frontend-development/",
             "display_url" : "meiert.com/en/blog/critic…",
             "indices" : [
               "173",
@@ -4457,7 +4457,7 @@ module.exports = [
           },
           {
             "url" : "https://t.co/Vh42zOR6qc",
-            "expanded_url" : "https://meiert.com/en/blog/the-frontend-developer-test/",
+            "expanded_url" : "https://meiert.com/blog/the-frontend-developer-test/",
             "display_url" : "meiert.com/en/blog/the-fr…",
             "indices" : [
               "238",
@@ -5040,7 +5040,7 @@ module.exports = [
           },
           {
             "url" : "https://t.co/g6u56UaxuS",
-            "expanded_url" : "https://meiert.com/en/blog/should-designers-code/",
+            "expanded_url" : "https://meiert.com/blog/should-designers-code/",
             "display_url" : "meiert.com/en/blog/should…",
             "indices" : [
               "230",
@@ -5134,7 +5134,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/5NpBvVoNk1",
-            "expanded_url" : "https://meiert.com/en/blog/on-declaration-sorting/",
+            "expanded_url" : "https://meiert.com/blog/on-declaration-sorting/",
             "display_url" : "meiert.com/en/blog/on-dec…",
             "indices" : [
               "129",
@@ -5591,7 +5591,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/Vh42zOR6qc",
-            "expanded_url" : "https://meiert.com/en/blog/the-frontend-developer-test/",
+            "expanded_url" : "https://meiert.com/blog/the-frontend-developer-test/",
             "display_url" : "meiert.com/en/blog/the-fr…",
             "indices" : [
               "253",
@@ -6702,7 +6702,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/grMvizdsZu",
-            "expanded_url" : "https://meiert.com/en/blog/user-centered-web-development/",
+            "expanded_url" : "https://meiert.com/blog/user-centered-web-development/",
             "display_url" : "meiert.com/en/blog/user-c…",
             "indices" : [
               "55",
@@ -8033,7 +8033,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/lMaUmaNF2M",
-            "expanded_url" : "https://meiert.com/en/blog/accessibility-heuristics/",
+            "expanded_url" : "https://meiert.com/blog/accessibility-heuristics/",
             "display_url" : "meiert.com/en/blog/access…",
             "indices" : [
               "183",
@@ -8705,7 +8705,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/ZuzmqFFpW1",
-            "expanded_url" : "https://meiert.com/en/blog/microformats-and-pseudo-namespaces/",
+            "expanded_url" : "https://meiert.com/blog/microformats-and-pseudo-namespaces/",
             "display_url" : "meiert.com/en/blog/microf…",
             "indices" : [
               "109",
@@ -10625,7 +10625,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/ERpkfIkRbI",
-            "expanded_url" : "https://meiert.com/en/blog/use-i-appropriately/",
+            "expanded_url" : "https://meiert.com/blog/use-i-appropriately/",
             "display_url" : "meiert.com/en/blog/use-i-…",
             "indices" : [
               "251",
@@ -10808,7 +10808,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/lqjzhFdEDT",
-            "expanded_url" : "https://meiert.com/en/blog/the-problem-with-checklists/",
+            "expanded_url" : "https://meiert.com/blog/the-problem-with-checklists/",
             "display_url" : "meiert.com/en/blog/the-pr…",
             "indices" : [
               "106",
@@ -11152,7 +11152,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/hfAwk2KXX9",
-            "expanded_url" : "https://meiert.com/en/blog/handheld-media-type-rip/",
+            "expanded_url" : "https://meiert.com/blog/handheld-media-type-rip/",
             "display_url" : "meiert.com/en/blog/handhe…",
             "indices" : [
               "121",
@@ -12341,7 +12341,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/vkwicNP0CA",
-            "expanded_url" : "https://meiert.com/en/blog/simple-code/",
+            "expanded_url" : "https://meiert.com/blog/simple-code/",
             "display_url" : "meiert.com/en/blog/simple…",
             "indices" : [
               "234",
@@ -12666,7 +12666,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/vZPdJ7AZVz",
-            "expanded_url" : "https://meiert.com/en/blog/minimal-web-development/",
+            "expanded_url" : "https://meiert.com/blog/minimal-web-development/",
             "display_url" : "meiert.com/en/blog/minima…",
             "indices" : [
               "93",
@@ -12675,7 +12675,7 @@ module.exports = [
           },
           {
             "url" : "https://t.co/opdCe5Dgqk",
-            "expanded_url" : "https://meiert.com/en/blog/run-your-own-website/",
+            "expanded_url" : "https://meiert.com/blog/run-your-own-website/",
             "display_url" : "meiert.com/en/blog/run-yo…",
             "indices" : [
               "152",
@@ -12936,7 +12936,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/3IufL4FLIz",
-            "expanded_url" : "https://meiert.com/en/blog/optimization-measures-12/",
+            "expanded_url" : "https://meiert.com/blog/optimization-measures-12/",
             "display_url" : "meiert.com/en/blog/optimi…",
             "indices" : [
               "173",
@@ -13370,7 +13370,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/MNwpdFYMWE",
-            "expanded_url" : "https://meiert.com/en/blog/logical-properties/",
+            "expanded_url" : "https://meiert.com/blog/logical-properties/",
             "display_url" : "meiert.com/en/blog/logica…",
             "indices" : [
               "249",
@@ -13581,7 +13581,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/TE5IJSe5Wa",
-            "expanded_url" : "https://meiert.com/en/blog/html-nothing-content-model/",
+            "expanded_url" : "https://meiert.com/blog/html-nothing-content-model/",
             "display_url" : "meiert.com/en/blog/html-n…",
             "indices" : [
               "180",
@@ -14154,7 +14154,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/7YohKEpXfB",
-            "expanded_url" : "https://meiert.com/en/blog/generated-content/",
+            "expanded_url" : "https://meiert.com/blog/generated-content/",
             "display_url" : "meiert.com/en/blog/genera…",
             "indices" : [
               "60",
@@ -15113,7 +15113,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/UvP9SExt9T",
-            "expanded_url" : "https://meiert.com/en/blog/pareto-optimization/",
+            "expanded_url" : "https://meiert.com/blog/pareto-optimization/",
             "display_url" : "meiert.com/en/blog/pareto…",
             "indices" : [
               "205",
@@ -16771,7 +16771,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/5BtoVkg8OB",
-            "expanded_url" : "https://meiert.com/en/blog/questioning-root/",
+            "expanded_url" : "https://meiert.com/blog/questioning-root/",
             "display_url" : "meiert.com/en/blog/questi…",
             "indices" : [
               "120",
@@ -17461,7 +17461,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/562pBnm2IR",
-            "expanded_url" : "https://meiert.com/en/blog/listen/",
+            "expanded_url" : "https://meiert.com/blog/listen/",
             "display_url" : "meiert.com/en/blog/listen/",
             "indices" : [
               "97",
@@ -18176,7 +18176,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/XvHrf8rzSQ",
-            "expanded_url" : "https://meiert.com/en/blog/webmaintenance/",
+            "expanded_url" : "https://meiert.com/blog/webmaintenance/",
             "display_url" : "meiert.com/en/blog/webmai…",
             "indices" : [
               "237",
@@ -18651,7 +18651,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/oXTYdFvwwQ",
-            "expanded_url" : "https://meiert.com/en/blog/fire-and-forget/",
+            "expanded_url" : "https://meiert.com/blog/fire-and-forget/",
             "display_url" : "meiert.com/en/blog/fire-a…",
             "indices" : [
               "72",
@@ -19218,7 +19218,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/8DiqyR73um",
-            "expanded_url" : "https://meiert.com/en/blog/the-aging-developer/",
+            "expanded_url" : "https://meiert.com/blog/the-aging-developer/",
             "display_url" : "meiert.com/en/blog/the-ag…",
             "indices" : [
               "222",
@@ -20341,7 +20341,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/xRuOxb7Bc7",
-            "expanded_url" : "https://meiert.com/en/blog/csgo-on-macos/",
+            "expanded_url" : "https://meiert.com/blog/csgo-on-macos/",
             "display_url" : "meiert.com/en/blog/csgo-o…",
             "indices" : [
               "119",
@@ -21891,7 +21891,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/vZPdJ7AZVz",
-            "expanded_url" : "https://meiert.com/en/blog/minimal-web-development/",
+            "expanded_url" : "https://meiert.com/blog/minimal-web-development/",
             "display_url" : "meiert.com/en/blog/minima…",
             "indices" : [
               "66",
@@ -22427,7 +22427,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/dUHkKWkQL7",
-            "expanded_url" : "https://meiert.com/en/blog/valid-html-2021/",
+            "expanded_url" : "https://meiert.com/blog/valid-html-2021/",
             "display_url" : "meiert.com/en/blog/valid-…",
             "indices" : [
               "209",
@@ -22681,7 +22681,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/wXZgoSk63A",
-            "expanded_url" : "https://meiert.com/en/blog/critical-frontend-development/",
+            "expanded_url" : "https://meiert.com/blog/critical-frontend-development/",
             "display_url" : "meiert.com/en/blog/critic…",
             "indices" : [
               "255",
@@ -23509,7 +23509,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/rKNbGz8x48",
-            "expanded_url" : "https://meiert.com/en/blog/upgrade-your-html-3/",
+            "expanded_url" : "https://meiert.com/blog/upgrade-your-html-3/",
             "display_url" : "meiert.com/en/blog/upgrad…",
             "indices" : [
               "127",
@@ -23988,7 +23988,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/rHXSrTffYv",
-            "expanded_url" : "https://meiert.com/en/blog/engineering-management-12/",
+            "expanded_url" : "https://meiert.com/blog/engineering-management-12/",
             "display_url" : "meiert.com/en/blog/engine…",
             "indices" : [
               "243",
@@ -24849,7 +24849,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/UEp01Ih71G",
-            "expanded_url" : "https://meiert.com/en/blog/html-body-ok/",
+            "expanded_url" : "https://meiert.com/blog/html-body-ok/",
             "display_url" : "meiert.com/en/blog/html-b…",
             "indices" : [
               "193",
@@ -24970,7 +24970,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/bBzGvhCGgB",
-            "expanded_url" : "https://meiert.com/en/blog/lang/",
+            "expanded_url" : "https://meiert.com/blog/lang/",
             "display_url" : "meiert.com/en/blog/lang/",
             "indices" : [
               "255",
@@ -25330,7 +25330,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/tMEef3RNDD",
-            "expanded_url" : "https://meiert.com/en/blog/difficult-developer-life/",
+            "expanded_url" : "https://meiert.com/blog/difficult-developer-life/",
             "display_url" : "meiert.com/en/blog/diffic…",
             "indices" : [
               "118",
@@ -26089,7 +26089,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/xv9FcNZgvY",
-            "expanded_url" : "https://meiert.com/en/blog/user-agent-style-sheets/",
+            "expanded_url" : "https://meiert.com/blog/user-agent-style-sheets/",
             "display_url" : "meiert.com/en/blog/user-a…",
             "indices" : [
               "253",
@@ -26135,7 +26135,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/O7zN7nMHII",
-            "expanded_url" : "https://meiert.com/en/blog/the-anatomy-of-a-coding-guideline/",
+            "expanded_url" : "https://meiert.com/blog/the-anatomy-of-a-coding-guideline/",
             "display_url" : "meiert.com/en/blog/the-an…",
             "indices" : [
               "68",
@@ -26912,7 +26912,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/wXZgoSk63A",
-            "expanded_url" : "https://meiert.com/en/blog/critical-frontend-development/",
+            "expanded_url" : "https://meiert.com/blog/critical-frontend-development/",
             "display_url" : "meiert.com/en/blog/critic…",
             "indices" : [
               "170",
@@ -27361,7 +27361,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/YxPnQcdK8Q",
-            "expanded_url" : "https://meiert.com/en/blog/html-browsing-contexts/",
+            "expanded_url" : "https://meiert.com/blog/html-browsing-contexts/",
             "display_url" : "meiert.com/en/blog/html-b…",
             "indices" : [
               "122",
@@ -28471,7 +28471,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/ChV3mQR81E",
-            "expanded_url" : "https://meiert.com/en/blog/selector-order/",
+            "expanded_url" : "https://meiert.com/blog/selector-order/",
             "display_url" : "meiert.com/en/blog/select…",
             "indices" : [
               "87",
@@ -28814,7 +28814,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/Z1qxPaG61R",
-            "expanded_url" : "https://meiert.com/en/blog/code-in-quarantine/",
+            "expanded_url" : "https://meiert.com/blog/code-in-quarantine/",
             "display_url" : "meiert.com/en/blog/code-i…",
             "indices" : [
               "72",
@@ -29248,7 +29248,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/7gbjX1nxW9",
-            "expanded_url" : "https://meiert.com/en/blog/htmltuesday/",
+            "expanded_url" : "https://meiert.com/blog/htmltuesday/",
             "display_url" : "meiert.com/en/blog/htmltu…",
             "indices" : [
               "96",
@@ -30566,7 +30566,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/kHuI69j6O8",
-            "expanded_url" : "https://meiert.com/en/blog/the-frameworks-paradox/",
+            "expanded_url" : "https://meiert.com/blog/the-frameworks-paradox/",
             "display_url" : "meiert.com/en/blog/the-fr…",
             "indices" : [
               "57",
@@ -30918,7 +30918,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/mNtcQaJsXS",
-            "expanded_url" : "https://meiert.com/en/blog/f/",
+            "expanded_url" : "https://meiert.com/blog/f/",
             "display_url" : "meiert.com/en/blog/f/",
             "indices" : [
               "20",
@@ -32610,7 +32610,7 @@ module.exports = [
           },
           {
             "url" : "https://t.co/OItYwSPjZa",
-            "expanded_url" : "https://meiert.com/en/blog/70-percent-css-repetition/",
+            "expanded_url" : "https://meiert.com/blog/70-percent-css-repetition/",
             "display_url" : "meiert.com/en/blog/70-per…",
             "indices" : [
               "186",
@@ -32751,7 +32751,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/WfcQb5yfM8",
-            "expanded_url" : "https://meiert.com/en/blog/schmavicons/",
+            "expanded_url" : "https://meiert.com/blog/schmavicons/",
             "display_url" : "meiert.com/en/blog/schmav…",
             "indices" : [
               "57",
@@ -32869,7 +32869,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/y2oikX91UN",
-            "expanded_url" : "https://meiert.com/en/blog/print-styling-basics/",
+            "expanded_url" : "https://meiert.com/blog/print-styling-basics/",
             "display_url" : "meiert.com/en/blog/print-…",
             "indices" : [
               "173",
@@ -34833,7 +34833,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/lMaUmaNF2M",
-            "expanded_url" : "https://meiert.com/en/blog/accessibility-heuristics/",
+            "expanded_url" : "https://meiert.com/blog/accessibility-heuristics/",
             "display_url" : "meiert.com/en/blog/access…",
             "indices" : [
               "59",
@@ -34919,7 +34919,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/uptPVRsjbq",
-            "expanded_url" : "https://meiert.com/en/blog/docs-and-apps/",
+            "expanded_url" : "https://meiert.com/blog/docs-and-apps/",
             "display_url" : "meiert.com/en/blog/docs-a…",
             "indices" : [
               "219",
@@ -35546,7 +35546,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/RZNNRWF4CW",
-            "expanded_url" : "https://meiert.com/en/blog/promotion-or-raise/",
+            "expanded_url" : "https://meiert.com/blog/promotion-or-raise/",
             "display_url" : "meiert.com/en/blog/promot…",
             "indices" : [
               "48",
@@ -35816,7 +35816,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/QUGfSYsQ43",
-            "expanded_url" : "https://meiert.com/en/blog/css-extremes/",
+            "expanded_url" : "https://meiert.com/blog/css-extremes/",
             "display_url" : "meiert.com/en/blog/css-ex…",
             "indices" : [
               "34",
@@ -36083,7 +36083,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/p85Cymn6NH",
-            "expanded_url" : "https://meiert.com/en/blog/free-internet/",
+            "expanded_url" : "https://meiert.com/blog/free-internet/",
             "display_url" : "meiert.com/en/blog/free-i…",
             "indices" : [
               "0",
@@ -37009,7 +37009,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/Ih9rcUUvvk",
-            "expanded_url" : "https://meiert.com/en/blog/html-content-categories/",
+            "expanded_url" : "https://meiert.com/blog/html-content-categories/",
             "display_url" : "meiert.com/en/blog/html-c…",
             "indices" : [
               "55",
@@ -37423,7 +37423,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/zRHYLjfGiu",
-            "expanded_url" : "https://meiert.com/en/blog/no-clearfix/",
+            "expanded_url" : "https://meiert.com/blog/no-clearfix/",
             "display_url" : "meiert.com/en/blog/no-cle…",
             "indices" : [
               "34",
@@ -38083,7 +38083,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/wXZgoSk63A",
-            "expanded_url" : "https://meiert.com/en/blog/critical-frontend-development/",
+            "expanded_url" : "https://meiert.com/blog/critical-frontend-development/",
             "display_url" : "meiert.com/en/blog/critic…",
             "indices" : [
               "186",
@@ -39037,7 +39037,7 @@ module.exports = [
           },
           {
             "url" : "https://t.co/XKeCqdHr6E",
-            "expanded_url" : "https://meiert.com/en/blog/long-live-px/",
+            "expanded_url" : "https://meiert.com/blog/long-live-px/",
             "display_url" : "meiert.com/en/blog/long-l…",
             "indices" : [
               "201",
@@ -39112,7 +39112,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/yvFiFGCIe2",
-            "expanded_url" : "https://meiert.com/en/blog/the-web-development-glossary/",
+            "expanded_url" : "https://meiert.com/blog/the-web-development-glossary/",
             "display_url" : "meiert.com/en/blog/the-we…",
             "indices" : [
               "241",
@@ -39179,7 +39179,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/5NpBvV7cst",
-            "expanded_url" : "https://meiert.com/en/blog/on-declaration-sorting/",
+            "expanded_url" : "https://meiert.com/blog/on-declaration-sorting/",
             "display_url" : "meiert.com/en/blog/on-dec…",
             "indices" : [
               "269",
@@ -39238,7 +39238,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/YQlGiTqpe4",
-            "expanded_url" : "https://meiert.com/en/blog/principles-of-web-development/",
+            "expanded_url" : "https://meiert.com/blog/principles-of-web-development/",
             "display_url" : "meiert.com/en/blog/princi…",
             "indices" : [
               "66",
@@ -39367,7 +39367,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/QUpUGFGLDL",
-            "expanded_url" : "https://meiert.com/en/blog/re-2020/",
+            "expanded_url" : "https://meiert.com/blog/re-2020/",
             "display_url" : "meiert.com/en/blog/re-202…",
             "indices" : [
               "90",
@@ -40840,7 +40840,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/7gbjX1nxW9",
-            "expanded_url" : "https://meiert.com/en/blog/htmltuesday/",
+            "expanded_url" : "https://meiert.com/blog/htmltuesday/",
             "display_url" : "meiert.com/en/blog/htmltu…",
             "indices" : [
               "253",
@@ -42585,7 +42585,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/UdUYImTLpq",
-            "expanded_url" : "https://meiert.com/en/blog/ignore-amp/",
+            "expanded_url" : "https://meiert.com/blog/ignore-amp/",
             "display_url" : "meiert.com/en/blog/ignore…",
             "indices" : [
               "13",
@@ -42729,7 +42729,7 @@ module.exports = [
           },
           {
             "url" : "https://t.co/cl70s6pXno",
-            "expanded_url" : "https://meiert.com/en/blog/prefer-http-headers/",
+            "expanded_url" : "https://meiert.com/blog/prefer-http-headers/",
             "display_url" : "meiert.com/en/blog/prefer…",
             "indices" : [
               "215",
@@ -42887,7 +42887,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/QdnB32Lu1f",
-            "expanded_url" : "https://meiert.com/en/blog/optimization-measures-11/",
+            "expanded_url" : "https://meiert.com/blog/optimization-measures-11/",
             "display_url" : "meiert.com/en/blog/optimi…",
             "indices" : [
               "40",
@@ -43339,7 +43339,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/2PfZqC9y0D",
-            "expanded_url" : "https://meiert.com/en/blog/notes-on-html-32/",
+            "expanded_url" : "https://meiert.com/blog/notes-on-html-32/",
             "display_url" : "meiert.com/en/blog/notes-…",
             "indices" : [
               "19",
@@ -43444,7 +43444,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/9DFmYZRI4y",
-            "expanded_url" : "https://meiert.com/en/blog/css-bookmarklets/",
+            "expanded_url" : "https://meiert.com/blog/css-bookmarklets/",
             "display_url" : "meiert.com/en/blog/css-bo…",
             "indices" : [
               "69",
@@ -44901,7 +44901,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/KBGbOU4KSG",
-            "expanded_url" : "https://meiert.com/en/blog/develop-for-what-is/",
+            "expanded_url" : "https://meiert.com/blog/develop-for-what-is/",
             "display_url" : "meiert.com/en/blog/develo…",
             "indices" : [
               "114",
@@ -45117,7 +45117,7 @@ module.exports = [
           },
           {
             "url" : "https://t.co/yvFiFGCIe2",
-            "expanded_url" : "https://meiert.com/en/blog/the-web-development-glossary/",
+            "expanded_url" : "https://meiert.com/blog/the-web-development-glossary/",
             "display_url" : "meiert.com/en/blog/the-we…",
             "indices" : [
               "233",
@@ -47470,7 +47470,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/sYZKrLgiiN",
-            "expanded_url" : "https://meiert.com/en/blog/html-2020/",
+            "expanded_url" : "https://meiert.com/blog/html-2020/",
             "display_url" : "meiert.com/en/blog/html-2…",
             "indices" : [
               "28",
@@ -49395,7 +49395,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/474ddUO1mZ",
-            "expanded_url" : "https://meiert.com/en/blog/best-practice-ids-and-classes/",
+            "expanded_url" : "https://meiert.com/blog/best-practice-ids-and-classes/",
             "display_url" : "meiert.com/en/blog/best-p…",
             "indices" : [
               "84",
@@ -49439,7 +49439,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/5rhVbBjgam",
-            "expanded_url" : "https://meiert.com/en/blog/two-paradigms/",
+            "expanded_url" : "https://meiert.com/blog/two-paradigms/",
             "display_url" : "meiert.com/en/blog/two-pa…",
             "indices" : [
               "210",
@@ -49448,7 +49448,7 @@ module.exports = [
           },
           {
             "url" : "https://t.co/gmlWj1MvHB",
-            "expanded_url" : "https://meiert.com/en/blog/dependency-direction/",
+            "expanded_url" : "https://meiert.com/blog/dependency-direction/",
             "display_url" : "meiert.com/en/blog/depend…",
             "indices" : [
               "253",
@@ -49707,7 +49707,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/XpJRgBYcYt",
-            "expanded_url" : "https://meiert.com/en/blog/people-care/",
+            "expanded_url" : "https://meiert.com/blog/people-care/",
             "display_url" : "meiert.com/en/blog/people…",
             "indices" : [
               "13",
@@ -50472,7 +50472,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/hABvlKbh6R",
-            "expanded_url" : "https://meiert.com/en/blog/great-css-techniques/",
+            "expanded_url" : "https://meiert.com/blog/great-css-techniques/",
             "display_url" : "meiert.com/en/blog/great-…",
             "indices" : [
               "101",
@@ -51136,7 +51136,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/WanbDiwOau",
-            "expanded_url" : "https://meiert.com/en/blog/why-philosophy-matters/",
+            "expanded_url" : "https://meiert.com/blog/why-philosophy-matters/",
             "display_url" : "meiert.com/en/blog/why-ph…",
             "indices" : [
               "40",
@@ -51233,7 +51233,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/LqcLfQ2mqg",
-            "expanded_url" : "https://meiert.com/en/blog/a-day-is-a-day/",
+            "expanded_url" : "https://meiert.com/blog/a-day-is-a-day/",
             "display_url" : "meiert.com/en/blog/a-day-…",
             "indices" : [
               "16",
@@ -53238,7 +53238,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/8RETVMeAzL",
-            "expanded_url" : "https://meiert.com/en/blog/on-semantics-in-html/",
+            "expanded_url" : "https://meiert.com/blog/on-semantics-in-html/",
             "display_url" : "meiert.com/en/blog/on-sem…",
             "indices" : [
               "170",
@@ -53297,7 +53297,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/xMeqew5GgW",
-            "expanded_url" : "https://meiert.com/en/blog/how-to-order-css-selectors/",
+            "expanded_url" : "https://meiert.com/blog/how-to-order-css-selectors/",
             "display_url" : "meiert.com/en/blog/how-to…",
             "indices" : [
               "69",
@@ -53808,7 +53808,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/vZx6axtvnI",
-            "expanded_url" : "https://meiert.com/en/blog/optional-html/",
+            "expanded_url" : "https://meiert.com/blog/optional-html/",
             "display_url" : "meiert.com/en/blog/option…",
             "indices" : [
               "254",
@@ -54081,7 +54081,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/3CpYX2ke7h",
-            "expanded_url" : "https://meiert.com/en/blog/links-in-new-tabs/",
+            "expanded_url" : "https://meiert.com/blog/links-in-new-tabs/",
             "display_url" : "meiert.com/en/blog/links-…",
             "indices" : [
               "101",
@@ -55000,7 +55000,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/5BtoVkg8OB",
-            "expanded_url" : "https://meiert.com/en/blog/questioning-root/",
+            "expanded_url" : "https://meiert.com/blog/questioning-root/",
             "display_url" : "meiert.com/en/blog/questi…",
             "indices" : [
               "40",
@@ -55406,7 +55406,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/y2oikX91UN",
-            "expanded_url" : "https://meiert.com/en/blog/print-styling-basics/",
+            "expanded_url" : "https://meiert.com/blog/print-styling-basics/",
             "display_url" : "meiert.com/en/blog/print-…",
             "indices" : [
               "215",
@@ -55629,7 +55629,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/PFZpbP7v3j",
-            "expanded_url" : "https://meiert.com/en/blog/css-at-rules/",
+            "expanded_url" : "https://meiert.com/blog/css-at-rules/",
             "display_url" : "meiert.com/en/blog/css-at…",
             "indices" : [
               "69",
@@ -57520,7 +57520,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/VXIFl8MydD",
-            "expanded_url" : "https://meiert.com/en/blog/good-embed-code/",
+            "expanded_url" : "https://meiert.com/blog/good-embed-code/",
             "display_url" : "meiert.com/en/blog/good-e…",
             "indices" : [
               "252",
@@ -58295,7 +58295,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/bBzGvhCGgB",
-            "expanded_url" : "https://meiert.com/en/blog/lang/",
+            "expanded_url" : "https://meiert.com/blog/lang/",
             "display_url" : "meiert.com/en/blog/lang/",
             "indices" : [
               "265",
@@ -58354,7 +58354,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/U4dAokjkgX",
-            "expanded_url" : "https://meiert.com/en/blog/popular/",
+            "expanded_url" : "https://meiert.com/blog/popular/",
             "display_url" : "meiert.com/en/blog/popula…",
             "indices" : [
               "247",
@@ -58845,7 +58845,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/Ytw0wC0Amz",
-            "expanded_url" : "https://meiert.com/en/blog/optimization-measures-10/",
+            "expanded_url" : "https://meiert.com/blog/optimization-measures-10/",
             "display_url" : "meiert.com/en/blog/optimi…",
             "indices" : [
               "40",
@@ -59122,7 +59122,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/hEtVR3d60E",
-            "expanded_url" : "https://meiert.com/en/blog/amp/",
+            "expanded_url" : "https://meiert.com/blog/amp/",
             "display_url" : "meiert.com/en/blog/amp/",
             "indices" : [
               "255",
@@ -59428,7 +59428,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/5rhVbBjgam",
-            "expanded_url" : "https://meiert.com/en/blog/two-paradigms/",
+            "expanded_url" : "https://meiert.com/blog/two-paradigms/",
             "display_url" : "meiert.com/en/blog/two-pa…",
             "indices" : [
               "246",
@@ -60056,7 +60056,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/dsOaP5pv1c",
-            "expanded_url" : "https://meiert.com/en/blog/optimization-measures-1/",
+            "expanded_url" : "https://meiert.com/blog/optimization-measures-1/",
             "display_url" : "meiert.com/en/blog/optimi…",
             "indices" : [
               "256",
@@ -61241,7 +61241,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/2xtzOFnH7z",
-            "expanded_url" : "https://meiert.com/en/blog/the-anti-reset/",
+            "expanded_url" : "https://meiert.com/blog/the-anti-reset/",
             "display_url" : "meiert.com/en/blog/the-an…",
             "indices" : [
               "16",
@@ -63163,7 +63163,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/vZx6axtvnI",
-            "expanded_url" : "https://meiert.com/en/blog/optional-html/",
+            "expanded_url" : "https://meiert.com/blog/optional-html/",
             "display_url" : "meiert.com/en/blog/option…",
             "indices" : [
               "39",
@@ -64212,7 +64212,7 @@ module.exports = [
           },
           {
             "url" : "https://t.co/tzqX3HEkjW",
-            "expanded_url" : "https://meiert.com/en/blog/minimal-social-markup/",
+            "expanded_url" : "https://meiert.com/blog/minimal-social-markup/",
             "display_url" : "meiert.com/en/blog/minima…",
             "indices" : [
               "104",
@@ -64276,7 +64276,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/zQTL7LHLTR",
-            "expanded_url" : "https://meiert.com/en/blog/print-style-sheets-the-basics-for-no-excuses/",
+            "expanded_url" : "https://meiert.com/blog/print-style-sheets-the-basics-for-no-excuses/",
             "display_url" : "meiert.com/en/blog/print-…",
             "indices" : [
               "254",
@@ -66626,7 +66626,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/VXIFl8MydD",
-            "expanded_url" : "https://meiert.com/en/blog/good-embed-code/",
+            "expanded_url" : "https://meiert.com/blog/good-embed-code/",
             "display_url" : "meiert.com/en/blog/good-e…",
             "indices" : [
               "248",
@@ -68654,7 +68654,7 @@ module.exports = [
           },
           {
             "url" : "https://t.co/WfcQb5yfM8",
-            "expanded_url" : "https://meiert.com/en/blog/schmavicons/",
+            "expanded_url" : "https://meiert.com/blog/schmavicons/",
             "display_url" : "meiert.com/en/blog/schmav…",
             "indices" : [
               "211",
@@ -69205,7 +69205,7 @@ module.exports = [
           },
           {
             "url" : "https://t.co/kFGeLlfgHk",
-            "expanded_url" : "https://meiert.com/en/blog/meiert-feeds/",
+            "expanded_url" : "https://meiert.com/blog/meiert-feeds/",
             "display_url" : "meiert.com/en/blog/meiert…",
             "indices" : [
               "204",
@@ -69961,7 +69961,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/3CpYX2ke7h",
-            "expanded_url" : "https://meiert.com/en/blog/links-in-new-tabs/",
+            "expanded_url" : "https://meiert.com/blog/links-in-new-tabs/",
             "display_url" : "meiert.com/en/blog/links-…",
             "indices" : [
               "42",
@@ -70160,7 +70160,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/xjs1zK4eGB",
-            "expanded_url" : "https://meiert.com/en/blog/33-web-development-terms/",
+            "expanded_url" : "https://meiert.com/blog/33-web-development-terms/",
             "display_url" : "meiert.com/en/blog/33-web…",
             "indices" : [
               "52",
@@ -70854,7 +70854,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/0Z0yom8Bks",
-            "expanded_url" : "https://meiert.com/en/blog/salaries/",
+            "expanded_url" : "https://meiert.com/blog/salaries/",
             "display_url" : "meiert.com/en/blog/salari…",
             "indices" : [
               "28",
@@ -71202,7 +71202,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/g6u56UaxuS",
-            "expanded_url" : "https://meiert.com/en/blog/should-designers-code/",
+            "expanded_url" : "https://meiert.com/blog/should-designers-code/",
             "display_url" : "meiert.com/en/blog/should…",
             "indices" : [
               "32",
@@ -71335,7 +71335,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/RA8Ibs30wp",
-            "expanded_url" : "https://meiert.com/en/blog/dev-blog-tips/",
+            "expanded_url" : "https://meiert.com/blog/dev-blog-tips/",
             "display_url" : "meiert.com/en/blog/dev-bl…",
             "indices" : [
               "48",
@@ -72127,7 +72127,7 @@ module.exports = [
           },
           {
             "url" : "https://t.co/vZx6axtvnI",
-            "expanded_url" : "https://meiert.com/en/blog/optional-html/",
+            "expanded_url" : "https://meiert.com/blog/optional-html/",
             "display_url" : "meiert.com/en/blog/option…",
             "indices" : [
               "183",
@@ -72136,7 +72136,7 @@ module.exports = [
           },
           {
             "url" : "https://t.co/vZPdJ7AZVz",
-            "expanded_url" : "https://meiert.com/en/blog/minimal-web-development/",
+            "expanded_url" : "https://meiert.com/blog/minimal-web-development/",
             "display_url" : "meiert.com/en/blog/minima…",
             "indices" : [
               "240",
@@ -74587,7 +74587,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/y2oikX91UN",
-            "expanded_url" : "https://meiert.com/en/blog/print-styling-basics/",
+            "expanded_url" : "https://meiert.com/blog/print-styling-basics/",
             "display_url" : "meiert.com/en/blog/print-…",
             "indices" : [
               "40",
@@ -75335,7 +75335,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/tfLXpOnXRB",
-            "expanded_url" : "https://meiert.com/en/blog/rules-for-html/",
+            "expanded_url" : "https://meiert.com/blog/rules-for-html/",
             "display_url" : "meiert.com/en/blog/rules-…",
             "indices" : [
               "102",
@@ -75344,7 +75344,7 @@ module.exports = [
           },
           {
             "url" : "https://t.co/vZx6axtvnI",
-            "expanded_url" : "https://meiert.com/en/blog/optional-html/",
+            "expanded_url" : "https://meiert.com/blog/optional-html/",
             "display_url" : "meiert.com/en/blog/option…",
             "indices" : [
               "182",
@@ -76034,7 +76034,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/6oKolKX6Q6",
-            "expanded_url" : "https://meiert.com/en/blog/boolean-attributes-of-html/",
+            "expanded_url" : "https://meiert.com/blog/boolean-attributes-of-html/",
             "display_url" : "meiert.com/en/blog/boolea…",
             "indices" : [
               "37",
@@ -77602,7 +77602,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/5MUaUwpC33",
-            "expanded_url" : "https://meiert.com/en/blog/no-ad-blockers/",
+            "expanded_url" : "https://meiert.com/blog/no-ad-blockers/",
             "display_url" : "meiert.com/en/blog/no-ad-…",
             "indices" : [
               "40",
@@ -77917,7 +77917,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/y2oikX91UN",
-            "expanded_url" : "https://meiert.com/en/blog/print-styling-basics/",
+            "expanded_url" : "https://meiert.com/blog/print-styling-basics/",
             "display_url" : "meiert.com/en/blog/print-…",
             "indices" : [
               "133",
@@ -77926,7 +77926,7 @@ module.exports = [
           },
           {
             "url" : "https://t.co/0mzwNVx1WC",
-            "expanded_url" : "https://meiert.com/en/blog/urls-in-print/",
+            "expanded_url" : "https://meiert.com/blog/urls-in-print/",
             "display_url" : "meiert.com/en/blog/urls-i…",
             "indices" : [
               "255",
@@ -78034,7 +78034,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/FyQxUd47ZY",
-            "expanded_url" : "https://meiert.com/en/blog/professional-agile-leadership-resources/",
+            "expanded_url" : "https://meiert.com/blog/professional-agile-leadership-resources/",
             "display_url" : "meiert.com/en/blog/profes…",
             "indices" : [
               "70",
@@ -78458,7 +78458,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/nJwkd2ZSto",
-            "expanded_url" : "https://meiert.com/en/help/quality/",
+            "expanded_url" : "https://meiert.com/help/quality/",
             "display_url" : "meiert.com/en/help/qualit…",
             "indices" : [
               "257",
@@ -78530,7 +78530,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/kR0YVs5i71",
-            "expanded_url" : "https://meiert.com/en/blog/understanding-image-compression/",
+            "expanded_url" : "https://meiert.com/blog/understanding-image-compression/",
             "display_url" : "meiert.com/en/blog/unders…",
             "indices" : [
               "63",
@@ -78591,7 +78591,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/RA8Ibs30wp",
-            "expanded_url" : "https://meiert.com/en/blog/dev-blog-tips/",
+            "expanded_url" : "https://meiert.com/blog/dev-blog-tips/",
             "display_url" : "meiert.com/en/blog/dev-bl…",
             "indices" : [
               "39",
@@ -78812,7 +78812,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/EdUQlFjXuH",
-            "expanded_url" : "https://meiert.com/en/blog/responsible-javascript/",
+            "expanded_url" : "https://meiert.com/blog/responsible-javascript/",
             "display_url" : "meiert.com/en/blog/respon…",
             "indices" : [
               "74",
@@ -79738,7 +79738,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/VXIFl8MydD",
-            "expanded_url" : "https://meiert.com/en/blog/good-embed-code/",
+            "expanded_url" : "https://meiert.com/blog/good-embed-code/",
             "display_url" : "meiert.com/en/blog/good-e…",
             "indices" : [
               "34",
@@ -80569,7 +80569,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/xv9FcOgRUy",
-            "expanded_url" : "https://meiert.com/en/blog/user-agent-style-sheets/",
+            "expanded_url" : "https://meiert.com/blog/user-agent-style-sheets/",
             "display_url" : "meiert.com/en/blog/user-a…",
             "indices" : [
               "151",
@@ -80766,7 +80766,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/yvFiFGCIe2",
-            "expanded_url" : "https://meiert.com/en/blog/the-web-development-glossary/",
+            "expanded_url" : "https://meiert.com/blog/the-web-development-glossary/",
             "display_url" : "meiert.com/en/blog/the-we…",
             "indices" : [
               "194",
@@ -80981,7 +80981,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/lqjzhFdEDT",
-            "expanded_url" : "https://meiert.com/en/blog/the-problem-with-checklists/",
+            "expanded_url" : "https://meiert.com/blog/the-problem-with-checklists/",
             "display_url" : "meiert.com/en/blog/the-pr…",
             "indices" : [
               "185",
@@ -81274,7 +81274,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/kHuI69j6O8",
-            "expanded_url" : "https://meiert.com/en/blog/the-frameworks-paradox/",
+            "expanded_url" : "https://meiert.com/blog/the-frameworks-paradox/",
             "display_url" : "meiert.com/en/blog/the-fr…",
             "indices" : [
               "25",
@@ -81467,7 +81467,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/EdUQlFjXuH",
-            "expanded_url" : "https://meiert.com/en/blog/responsible-javascript/",
+            "expanded_url" : "https://meiert.com/blog/responsible-javascript/",
             "display_url" : "meiert.com/en/blog/respon…",
             "indices" : [
               "65",
@@ -82070,7 +82070,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/tfLXpOnXRB",
-            "expanded_url" : "https://meiert.com/en/blog/rules-for-html/",
+            "expanded_url" : "https://meiert.com/blog/rules-for-html/",
             "display_url" : "meiert.com/en/blog/rules-…",
             "indices" : [
               "254",
@@ -82802,7 +82802,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/aTCezKwhPc",
-            "expanded_url" : "https://meiert.com/en/blog/round-table/",
+            "expanded_url" : "https://meiert.com/blog/round-table/",
             "display_url" : "meiert.com/en/blog/round-…",
             "indices" : [
               "13",
@@ -83513,7 +83513,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/9Z5e8aJDel",
-            "expanded_url" : "https://meiert.com/en/blog/links-in-new-tabs/",
+            "expanded_url" : "https://meiert.com/blog/links-in-new-tabs/",
             "display_url" : "meiert.com/en/blog/links-…",
             "indices" : [
               "56",
@@ -84044,7 +84044,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/FyQxUd47ZY",
-            "expanded_url" : "https://meiert.com/en/blog/professional-agile-leadership-resources/",
+            "expanded_url" : "https://meiert.com/blog/professional-agile-leadership-resources/",
             "display_url" : "meiert.com/en/blog/profes…",
             "indices" : [
               "61",
@@ -85242,7 +85242,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/opdCe5Dgqk",
-            "expanded_url" : "https://meiert.com/en/blog/run-your-own-website/",
+            "expanded_url" : "https://meiert.com/blog/run-your-own-website/",
             "display_url" : "meiert.com/en/blog/run-yo…",
             "indices" : [
               "78",
@@ -85357,7 +85357,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/ChV3mQR81E",
-            "expanded_url" : "https://meiert.com/en/blog/selector-order/",
+            "expanded_url" : "https://meiert.com/blog/selector-order/",
             "display_url" : "meiert.com/en/blog/select…",
             "indices" : [
               "270",
@@ -85437,7 +85437,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/xMeqew5GgW",
-            "expanded_url" : "https://meiert.com/en/blog/how-to-order-css-selectors/",
+            "expanded_url" : "https://meiert.com/blog/how-to-order-css-selectors/",
             "display_url" : "meiert.com/en/blog/how-to…",
             "indices" : [
               "112",
@@ -85642,7 +85642,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/zblRbBiJXw",
-            "expanded_url" : "https://meiert.com/en/blog/web-almanac-2019-html-css/",
+            "expanded_url" : "https://meiert.com/blog/web-almanac-2019-html-css/",
             "display_url" : "meiert.com/en/blog/web-al…",
             "indices" : [
               "39",
@@ -85947,7 +85947,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/cl70s6pXno",
-            "expanded_url" : "https://meiert.com/en/blog/prefer-http-headers/",
+            "expanded_url" : "https://meiert.com/blog/prefer-http-headers/",
             "display_url" : "meiert.com/en/blog/prefer…",
             "indices" : [
               "60",
@@ -86217,7 +86217,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/OItYwSxJ7C",
-            "expanded_url" : "https://meiert.com/en/blog/70-percent-css-repetition/",
+            "expanded_url" : "https://meiert.com/blog/70-percent-css-repetition/",
             "display_url" : "meiert.com/en/blog/70-per…",
             "indices" : [
               "147",
@@ -86532,7 +86532,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/opdCe5Dgqk",
-            "expanded_url" : "https://meiert.com/en/blog/run-your-own-website/",
+            "expanded_url" : "https://meiert.com/blog/run-your-own-website/",
             "display_url" : "meiert.com/en/blog/run-yo…",
             "indices" : [
               "69",
@@ -87206,7 +87206,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/MmBq4sXSDf",
-            "expanded_url" : "https://meiert.com/en/blog/re-2019/",
+            "expanded_url" : "https://meiert.com/blog/re-2019/",
             "display_url" : "meiert.com/en/blog/re-201…",
             "indices" : [
               "6",
@@ -87582,7 +87582,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/vR1VHaAOE3",
-            "expanded_url" : "https://meiert.com/en/blog/html-minifier-config/",
+            "expanded_url" : "https://meiert.com/blog/html-minifier-config/",
             "display_url" : "meiert.com/en/blog/html-m…",
             "indices" : [
               "17",
@@ -87692,7 +87692,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/vZx6axtvnI",
-            "expanded_url" : "https://meiert.com/en/blog/optional-html/",
+            "expanded_url" : "https://meiert.com/blog/optional-html/",
             "display_url" : "meiert.com/en/blog/option…",
             "indices" : [
               "125",
@@ -87786,7 +87786,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/Kxf3hFENXF",
-            "expanded_url" : "https://meiert.com/en/blog/reset-style-sheets-are-bad/",
+            "expanded_url" : "https://meiert.com/blog/reset-style-sheets-are-bad/",
             "display_url" : "meiert.com/en/blog/reset-…",
             "indices" : [
               "110",
@@ -87795,7 +87795,7 @@ module.exports = [
           },
           {
             "url" : "https://t.co/E6qA4lTdUX",
-            "expanded_url" : "https://meiert.com/en/blog/one-photo-reset-style-sheets/",
+            "expanded_url" : "https://meiert.com/blog/one-photo-reset-style-sheets/",
             "display_url" : "meiert.com/en/blog/one-ph…",
             "indices" : [
               "135",
@@ -87804,7 +87804,7 @@ module.exports = [
           },
           {
             "url" : "https://t.co/geEBxnt9gX",
-            "expanded_url" : "https://meiert.com/en/blog/stop-using-resets/",
+            "expanded_url" : "https://meiert.com/blog/stop-using-resets/",
             "display_url" : "meiert.com/en/blog/stop-u…",
             "indices" : [
               "160",
@@ -87886,7 +87886,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/TTfkrrS5DQ",
-            "expanded_url" : "https://meiert.com/en/blog/css-maintenance-issue-1/",
+            "expanded_url" : "https://meiert.com/blog/css-maintenance-issue-1/",
             "display_url" : "meiert.com/en/blog/css-ma…",
             "indices" : [
               "281",
@@ -87968,7 +87968,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/MNwpdFYMWE",
-            "expanded_url" : "https://meiert.com/en/blog/logical-properties/",
+            "expanded_url" : "https://meiert.com/blog/logical-properties/",
             "display_url" : "meiert.com/en/blog/logica…",
             "indices" : [
               "283",
@@ -88300,7 +88300,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/1vZrOCjzjj",
-            "expanded_url" : "https://meiert.com/en/blog/dry-css/",
+            "expanded_url" : "https://meiert.com/blog/dry-css/",
             "display_url" : "meiert.com/en/blog/dry-cs…",
             "indices" : [
               "195",
@@ -90570,7 +90570,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/3CpYX2ke7h",
-            "expanded_url" : "https://meiert.com/en/blog/links-in-new-tabs/",
+            "expanded_url" : "https://meiert.com/blog/links-in-new-tabs/",
             "display_url" : "meiert.com/en/blog/links-…",
             "indices" : [
               "33",
@@ -91601,7 +91601,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/CndHMXSE1Q",
-            "expanded_url" : "https://meiert.com/en/blog/how-to-share-code-with-users/",
+            "expanded_url" : "https://meiert.com/blog/how-to-share-code-with-users/",
             "display_url" : "meiert.com/en/blog/how-to…",
             "indices" : [
               "223",
@@ -91610,7 +91610,7 @@ module.exports = [
           },
           {
             "url" : "https://t.co/RSD4WTwtih",
-            "expanded_url" : "https://meiert.com/en/blog/code-privacy/",
+            "expanded_url" : "https://meiert.com/blog/code-privacy/",
             "display_url" : "meiert.com/en/blog/code-p…",
             "indices" : [
               "255",
@@ -92572,7 +92572,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/CndHMXSE1Q",
-            "expanded_url" : "https://meiert.com/en/blog/how-to-share-code-with-users/",
+            "expanded_url" : "https://meiert.com/blog/how-to-share-code-with-users/",
             "display_url" : "meiert.com/en/blog/how-to…",
             "indices" : [
               "214",
@@ -93017,7 +93017,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/5rhVbBjgam",
-            "expanded_url" : "https://meiert.com/en/blog/two-paradigms/",
+            "expanded_url" : "https://meiert.com/blog/two-paradigms/",
             "display_url" : "meiert.com/en/blog/two-pa…",
             "indices" : [
               "200",
@@ -93241,7 +93241,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/MNwpdFYMWE",
-            "expanded_url" : "https://meiert.com/en/blog/logical-properties/",
+            "expanded_url" : "https://meiert.com/blog/logical-properties/",
             "display_url" : "meiert.com/en/blog/logica…",
             "indices" : [
               "37",
@@ -93481,7 +93481,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/NuAidYaoGI",
-            "expanded_url" : "https://meiert.com/en/blog/wdr-4/",
+            "expanded_url" : "https://meiert.com/blog/wdr-4/",
             "display_url" : "meiert.com/en/blog/wdr-4/",
             "indices" : [
               "23",
@@ -93532,7 +93532,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/1vZrOCjzjj",
-            "expanded_url" : "https://meiert.com/en/blog/dry-css/",
+            "expanded_url" : "https://meiert.com/blog/dry-css/",
             "display_url" : "meiert.com/en/blog/dry-cs…",
             "indices" : [
               "188",
@@ -93635,7 +93635,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/1yAwr77U3x",
-            "expanded_url" : "https://meiert.com/en/blog/optimization-measures-9/",
+            "expanded_url" : "https://meiert.com/blog/optimization-measures-9/",
             "display_url" : "meiert.com/en/blog/optimi…",
             "indices" : [
               "40",
@@ -93832,7 +93832,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/7yqP4vHyeW",
-            "expanded_url" : "https://meiert.com/en/blog/exercise-for-emerging-css-experts/",
+            "expanded_url" : "https://meiert.com/blog/exercise-for-emerging-css-experts/",
             "display_url" : "meiert.com/en/blog/exerci…",
             "indices" : [
               "148",
@@ -94491,7 +94491,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/OItYwSxJ7C",
-            "expanded_url" : "https://meiert.com/en/blog/70-percent-css-repetition/",
+            "expanded_url" : "https://meiert.com/blog/70-percent-css-repetition/",
             "display_url" : "meiert.com/en/blog/70-per…",
             "indices" : [
               "170",
@@ -95374,7 +95374,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/ZxdcC9DXTu",
-            "expanded_url" : "https://meiert.com/en/blog/upgrade-your-html/",
+            "expanded_url" : "https://meiert.com/blog/upgrade-your-html/",
             "display_url" : "meiert.com/en/blog/upgrad…",
             "indices" : [
               "49",
@@ -95704,7 +95704,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/geEBxnt9gX",
-            "expanded_url" : "https://meiert.com/en/blog/stop-using-resets/",
+            "expanded_url" : "https://meiert.com/blog/stop-using-resets/",
             "display_url" : "meiert.com/en/blog/stop-u…",
             "indices" : [
               "221",
@@ -96350,7 +96350,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/y2oikWRqwd",
-            "expanded_url" : "https://meiert.com/en/blog/print-styling-basics/",
+            "expanded_url" : "https://meiert.com/blog/print-styling-basics/",
             "display_url" : "meiert.com/en/blog/print-…",
             "indices" : [
               "83",
@@ -96915,7 +96915,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/YUT2t4tuws",
-            "expanded_url" : "https://meiert.com/en/blog/collaboration-with-designers/",
+            "expanded_url" : "https://meiert.com/blog/collaboration-with-designers/",
             "display_url" : "meiert.com/en/blog/collab…",
             "indices" : [
               "63",
@@ -97528,7 +97528,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/o8lO0N9sDp",
-            "expanded_url" : "https://meiert.com/en/blog/definition-of-web-developer/",
+            "expanded_url" : "https://meiert.com/blog/definition-of-web-developer/",
             "display_url" : "meiert.com/en/blog/defini…",
             "indices" : [
               "29",
@@ -98052,7 +98052,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/5MUaUwpC33",
-            "expanded_url" : "https://meiert.com/en/blog/no-ad-blockers/",
+            "expanded_url" : "https://meiert.com/blog/no-ad-blockers/",
             "display_url" : "meiert.com/en/blog/no-ad-…",
             "indices" : [
               "64",
@@ -98131,7 +98131,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/OpH4YfcMpz",
-            "expanded_url" : "https://meiert.com/en/blog/must-work-without-javascript/",
+            "expanded_url" : "https://meiert.com/blog/must-work-without-javascript/",
             "display_url" : "meiert.com/en/blog/must-w…",
             "indices" : [
               "74",
@@ -98279,7 +98279,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/vZx6axtvnI",
-            "expanded_url" : "https://meiert.com/en/blog/optional-html/",
+            "expanded_url" : "https://meiert.com/blog/optional-html/",
             "display_url" : "meiert.com/en/blog/option…",
             "indices" : [
               "250",
@@ -98353,7 +98353,7 @@ module.exports = [
           },
           {
             "url" : "https://t.co/WBjGx0cqYK",
-            "expanded_url" : "https://meiert.com/en/blog/nofollow-still-considered-harmful/",
+            "expanded_url" : "https://meiert.com/blog/nofollow-still-considered-harmful/",
             "display_url" : "meiert.com/en/blog/nofoll…",
             "indices" : [
               "178",
@@ -98407,7 +98407,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/OpH4YfcMpz",
-            "expanded_url" : "https://meiert.com/en/blog/must-work-without-javascript/",
+            "expanded_url" : "https://meiert.com/blog/must-work-without-javascript/",
             "display_url" : "meiert.com/en/blog/must-w…",
             "indices" : [
               "33",
@@ -98492,7 +98492,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/vZx6axtvnI",
-            "expanded_url" : "https://meiert.com/en/blog/optional-html/",
+            "expanded_url" : "https://meiert.com/blog/optional-html/",
             "display_url" : "meiert.com/en/blog/option…",
             "indices" : [
               "72",
@@ -98687,7 +98687,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/vZx6axtvnI",
-            "expanded_url" : "https://meiert.com/en/blog/optional-html/",
+            "expanded_url" : "https://meiert.com/blog/optional-html/",
             "display_url" : "meiert.com/en/blog/option…",
             "indices" : [
               "45",
@@ -98748,7 +98748,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/jwChQ0j82O",
-            "expanded_url" : "https://meiert.com/en/blog/10-books-a-month/",
+            "expanded_url" : "https://meiert.com/blog/10-books-a-month/",
             "display_url" : "meiert.com/en/blog/10-boo…",
             "indices" : [
               "150",
@@ -99549,7 +99549,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/6vaOilnMYk",
-            "expanded_url" : "https://meiert.com/en/blog/html-performance/",
+            "expanded_url" : "https://meiert.com/blog/html-performance/",
             "display_url" : "meiert.com/en/blog/html-p…",
             "indices" : [
               "239",
@@ -99603,7 +99603,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/APa4ElyvMQ",
-            "expanded_url" : "https://meiert.com/en/blog/stupidest-style-sheet-name/",
+            "expanded_url" : "https://meiert.com/blog/stupidest-style-sheet-name/",
             "display_url" : "meiert.com/en/blog/stupid…",
             "indices" : [
               "254",
@@ -99671,7 +99671,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/HXRMttEvsz",
-            "expanded_url" : "https://meiert.com/en/blog/when-to-srcset/",
+            "expanded_url" : "https://meiert.com/blog/when-to-srcset/",
             "display_url" : "meiert.com/en/blog/when-t…",
             "indices" : [
               "61",
@@ -100083,7 +100083,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/kZllxhd94Q",
-            "expanded_url" : "https://meiert.com/en/blog/13-leadership-mistakes/",
+            "expanded_url" : "https://meiert.com/blog/13-leadership-mistakes/",
             "display_url" : "meiert.com/en/blog/13-lea…",
             "indices" : [
               "46",
@@ -100565,7 +100565,7 @@ module.exports = [
           },
           {
             "url" : "https://t.co/awIXkd6AY7",
-            "expanded_url" : "https://meiert.com/en/blog/new-tab-traffic-randomizer/",
+            "expanded_url" : "https://meiert.com/blog/new-tab-traffic-randomizer/",
             "display_url" : "meiert.com/en/blog/new-ta…",
             "indices" : [
               "97",
@@ -100574,7 +100574,7 @@ module.exports = [
           },
           {
             "url" : "https://t.co/JxlMeGNR3Y",
-            "expanded_url" : "https://meiert.com/en/blog/private-random/",
+            "expanded_url" : "https://meiert.com/blog/private-random/",
             "display_url" : "meiert.com/en/blog/privat…",
             "indices" : [
               "125",
@@ -100804,7 +100804,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/MvlrgBEWSS",
-            "expanded_url" : "https://meiert.com/en/blog/easy-automated-image-compression/",
+            "expanded_url" : "https://meiert.com/blog/easy-automated-image-compression/",
             "display_url" : "meiert.com/en/blog/easy-a…",
             "indices" : [
               "77",
@@ -100881,7 +100881,7 @@ module.exports = [
           },
           {
             "url" : "https://t.co/y2oikX91UN",
-            "expanded_url" : "https://meiert.com/en/blog/print-styling-basics/",
+            "expanded_url" : "https://meiert.com/blog/print-styling-basics/",
             "display_url" : "meiert.com/en/blog/print-…",
             "indices" : [
               "256",
@@ -100946,7 +100946,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/lqjzhFdEDT",
-            "expanded_url" : "https://meiert.com/en/blog/the-problem-with-checklists/",
+            "expanded_url" : "https://meiert.com/blog/the-problem-with-checklists/",
             "display_url" : "meiert.com/en/blog/the-pr…",
             "indices" : [
               "45",
@@ -101105,7 +101105,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/nJwkd2ZSto",
-            "expanded_url" : "https://meiert.com/en/help/quality/",
+            "expanded_url" : "https://meiert.com/help/quality/",
             "display_url" : "meiert.com/en/help/qualit…",
             "indices" : [
               "207",
@@ -101450,7 +101450,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/aFzuj6pNnz",
-            "expanded_url" : "https://meiert.com/en/blog/valid-html-2022/",
+            "expanded_url" : "https://meiert.com/blog/valid-html-2022/",
             "display_url" : "meiert.com/en/blog/valid-…",
             "indices" : [
               "235",
@@ -101858,7 +101858,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/dUHkKWloAF",
-            "expanded_url" : "https://meiert.com/en/blog/valid-html-2021/",
+            "expanded_url" : "https://meiert.com/blog/valid-html-2021/",
             "display_url" : "meiert.com/en/blog/valid-…",
             "indices" : [
               "251",
@@ -101920,7 +101920,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/Vh42zOREfK",
-            "expanded_url" : "https://meiert.com/en/blog/the-frontend-developer-test/",
+            "expanded_url" : "https://meiert.com/blog/the-frontend-developer-test/",
             "display_url" : "meiert.com/en/blog/the-fr…",
             "indices" : [
               "58",
@@ -102209,7 +102209,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/wEFLakNEim",
-            "expanded_url" : "https://meiert.com/en/blog/dx-factors/",
+            "expanded_url" : "https://meiert.com/blog/dx-factors/",
             "display_url" : "meiert.com/en/blog/dx-fac…",
             "indices" : [
               "229",
@@ -102590,7 +102590,7 @@ module.exports = [
           },
           {
             "url" : "https://t.co/vylG8rOve6",
-            "expanded_url" : "https://meiert.com/en/blog/web-design-2014/",
+            "expanded_url" : "https://meiert.com/blog/web-design-2014/",
             "display_url" : "meiert.com/en/blog/web-de…",
             "indices" : [
               "254",
@@ -102651,7 +102651,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/5MUaUwpC33",
-            "expanded_url" : "https://meiert.com/en/blog/no-ad-blockers/",
+            "expanded_url" : "https://meiert.com/blog/no-ad-blockers/",
             "display_url" : "meiert.com/en/blog/no-ad-…",
             "indices" : [
               "31",
@@ -102827,7 +102827,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/5NpBvVoNk1",
-            "expanded_url" : "https://meiert.com/en/blog/on-declaration-sorting/",
+            "expanded_url" : "https://meiert.com/blog/on-declaration-sorting/",
             "display_url" : "meiert.com/en/blog/on-dec…",
             "indices" : [
               "133",
@@ -102988,7 +102988,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/kR0YVs5i71",
-            "expanded_url" : "https://meiert.com/en/blog/understanding-image-compression/",
+            "expanded_url" : "https://meiert.com/blog/understanding-image-compression/",
             "display_url" : "meiert.com/en/blog/unders…",
             "indices" : [
               "54",
@@ -103552,7 +103552,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/WfcQb5yfM8",
-            "expanded_url" : "https://meiert.com/en/blog/schmavicons/",
+            "expanded_url" : "https://meiert.com/blog/schmavicons/",
             "display_url" : "meiert.com/en/blog/schmav…",
             "indices" : [
               "25",
@@ -103634,7 +103634,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/awIXkd6AY7",
-            "expanded_url" : "https://meiert.com/en/blog/new-tab-traffic-randomizer/",
+            "expanded_url" : "https://meiert.com/blog/new-tab-traffic-randomizer/",
             "display_url" : "meiert.com/en/blog/new-ta…",
             "indices" : [
               "199",
@@ -103643,7 +103643,7 @@ module.exports = [
           },
           {
             "url" : "https://t.co/JxlMeGNR3Y",
-            "expanded_url" : "https://meiert.com/en/blog/private-random/",
+            "expanded_url" : "https://meiert.com/blog/private-random/",
             "display_url" : "meiert.com/en/blog/privat…",
             "indices" : [
               "224",
@@ -103919,7 +103919,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/XvHrf8rzSQ",
-            "expanded_url" : "https://meiert.com/en/blog/webmaintenance/",
+            "expanded_url" : "https://meiert.com/blog/webmaintenance/",
             "display_url" : "meiert.com/en/blog/webmai…",
             "indices" : [
               "55",
@@ -104390,7 +104390,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/ImROvzqc38",
-            "expanded_url" : "https://meiert.com/en/blog/happiness/",
+            "expanded_url" : "https://meiert.com/blog/happiness/",
             "display_url" : "meiert.com/en/blog/happin…",
             "indices" : [
               "35",
@@ -104464,7 +104464,7 @@ module.exports = [
           },
           {
             "url" : "https://t.co/SI6woyFAjY",
-            "expanded_url" : "https://meiert.com/en/blog/googliness/",
+            "expanded_url" : "https://meiert.com/blog/googliness/",
             "display_url" : "meiert.com/en/blog/googli…",
             "indices" : [
               "251",
@@ -104735,7 +104735,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/tMEef3RNDD",
-            "expanded_url" : "https://meiert.com/en/blog/difficult-developer-life/",
+            "expanded_url" : "https://meiert.com/blog/difficult-developer-life/",
             "display_url" : "meiert.com/en/blog/diffic…",
             "indices" : [
               "250",
@@ -104798,7 +104798,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/ntzGGKwpJ6",
-            "expanded_url" : "https://meiert.com/en/blog/google-web-development-archives/",
+            "expanded_url" : "https://meiert.com/blog/google-web-development-archives/",
             "display_url" : "meiert.com/en/blog/google…",
             "indices" : [
               "220",
@@ -104859,7 +104859,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/y2oikX91UN",
-            "expanded_url" : "https://meiert.com/en/blog/print-styling-basics/",
+            "expanded_url" : "https://meiert.com/blog/print-styling-basics/",
             "display_url" : "meiert.com/en/blog/print-…",
             "indices" : [
               "31",
@@ -105254,7 +105254,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/5rhVbBjgam",
-            "expanded_url" : "https://meiert.com/en/blog/two-paradigms/",
+            "expanded_url" : "https://meiert.com/blog/two-paradigms/",
             "display_url" : "meiert.com/en/blog/two-pa…",
             "indices" : [
               "184",
@@ -105263,7 +105263,7 @@ module.exports = [
           },
           {
             "url" : "https://t.co/QUGfSYsQ43",
-            "expanded_url" : "https://meiert.com/en/blog/css-extremes/",
+            "expanded_url" : "https://meiert.com/blog/css-extremes/",
             "display_url" : "meiert.com/en/blog/css-ex…",
             "indices" : [
               "212",
@@ -105358,7 +105358,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/bBzGvhCGgB",
-            "expanded_url" : "https://meiert.com/en/blog/lang/",
+            "expanded_url" : "https://meiert.com/blog/lang/",
             "display_url" : "meiert.com/en/blog/lang/",
             "indices" : [
               "16",
@@ -105859,7 +105859,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/HkxVgTwdUX",
-            "expanded_url" : "https://meiert.com/en/blog/html-css-and-web-development-practices/",
+            "expanded_url" : "https://meiert.com/blog/html-css-and-web-development-practices/",
             "display_url" : "meiert.com/en/blog/html-c…",
             "indices" : [
               "99",
@@ -106232,7 +106232,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/7gbjX1nxW9",
-            "expanded_url" : "https://meiert.com/en/blog/htmltuesday/",
+            "expanded_url" : "https://meiert.com/blog/htmltuesday/",
             "display_url" : "meiert.com/en/blog/htmltu…",
             "indices" : [
               "229",
@@ -106617,7 +106617,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/6vaOilnMYk",
-            "expanded_url" : "https://meiert.com/en/blog/html-performance/",
+            "expanded_url" : "https://meiert.com/blog/html-performance/",
             "display_url" : "meiert.com/en/blog/html-p…",
             "indices" : [
               "45",
@@ -106805,7 +106805,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/6vaOilnMYk",
-            "expanded_url" : "https://meiert.com/en/blog/html-performance/",
+            "expanded_url" : "https://meiert.com/blog/html-performance/",
             "display_url" : "meiert.com/en/blog/html-p…",
             "indices" : [
               "60",
@@ -106914,7 +106914,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/rRffGq1QX5",
-            "expanded_url" : "https://meiert.com/en/blog/google-lighthouse-and-pwa/",
+            "expanded_url" : "https://meiert.com/blog/google-lighthouse-and-pwa/",
             "display_url" : "meiert.com/en/blog/google…",
             "indices" : [
               "100",
@@ -107132,7 +107132,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/rRffGq1QX5",
-            "expanded_url" : "https://meiert.com/en/blog/google-lighthouse-and-pwa/",
+            "expanded_url" : "https://meiert.com/blog/google-lighthouse-and-pwa/",
             "display_url" : "meiert.com/en/blog/google…",
             "indices" : [
               "29",
@@ -107291,7 +107291,7 @@ module.exports = [
           },
           {
             "url" : "https://t.co/fIGQLEB0K8",
-            "expanded_url" : "https://meiert.com/en/blog/180-little-stories/",
+            "expanded_url" : "https://meiert.com/blog/180-little-stories/",
             "display_url" : "meiert.com/en/blog/180-li…",
             "indices" : [
               "137",
@@ -107476,7 +107476,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/Lt1gTzGRQd",
-            "expanded_url" : "https://meiert.com/en/blog/re-2018/",
+            "expanded_url" : "https://meiert.com/blog/re-2018/",
             "display_url" : "meiert.com/en/blog/re-201…",
             "indices" : [
               "6",
@@ -108090,7 +108090,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/YkoYqSDrsn",
-            "expanded_url" : "https://meiert.com/en/blog/performance-optimization/",
+            "expanded_url" : "https://meiert.com/blog/performance-optimization/",
             "display_url" : "meiert.com/en/blog/perfor…",
             "indices" : [
               "67",
@@ -108247,7 +108247,7 @@ module.exports = [
           },
           {
             "url" : "https://t.co/v33VZq5EtG",
-            "expanded_url" : "https://meiert.com/en/blog/research-and-production/",
+            "expanded_url" : "https://meiert.com/blog/research-and-production/",
             "display_url" : "meiert.com/en/blog/resear…",
             "indices" : [
               "113",
@@ -108379,7 +108379,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/g6u56UaxuS",
-            "expanded_url" : "https://meiert.com/en/blog/should-designers-code/",
+            "expanded_url" : "https://meiert.com/blog/should-designers-code/",
             "display_url" : "meiert.com/en/blog/should…",
             "indices" : [
               "23",
@@ -108440,7 +108440,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/wy2uDk6Goj",
-            "expanded_url" : "https://meiert.com/en/blog/lighthouse-config/",
+            "expanded_url" : "https://meiert.com/blog/lighthouse-config/",
             "display_url" : "meiert.com/en/blog/lighth…",
             "indices" : [
               "76",
@@ -108737,7 +108737,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/ZWWhy92Zfy",
-            "expanded_url" : "https://meiert.com/en/blog/performance-rule-1/",
+            "expanded_url" : "https://meiert.com/blog/performance-rule-1/",
             "display_url" : "meiert.com/en/blog/perfor…",
             "indices" : [
               "58",
@@ -109261,7 +109261,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/wy2uDk6Goj",
-            "expanded_url" : "https://meiert.com/en/blog/lighthouse-config/",
+            "expanded_url" : "https://meiert.com/blog/lighthouse-config/",
             "display_url" : "meiert.com/en/blog/lighth…",
             "indices" : [
               "59",
@@ -109558,7 +109558,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/vZPdJ7AZVz",
-            "expanded_url" : "https://meiert.com/en/blog/minimal-web-development/",
+            "expanded_url" : "https://meiert.com/blog/minimal-web-development/",
             "display_url" : "meiert.com/en/blog/minima…",
             "indices" : [
               "42",
@@ -109711,7 +109711,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/RSD4WTwtih",
-            "expanded_url" : "https://meiert.com/en/blog/code-privacy/",
+            "expanded_url" : "https://meiert.com/blog/code-privacy/",
             "display_url" : "meiert.com/en/blog/code-p…",
             "indices" : [
               "31",
@@ -109855,7 +109855,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/SI6woyFAjY",
-            "expanded_url" : "https://meiert.com/en/blog/googliness/",
+            "expanded_url" : "https://meiert.com/blog/googliness/",
             "display_url" : "meiert.com/en/blog/googli…",
             "indices" : [
               "114",
@@ -109918,7 +109918,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/TjewFxdrQS",
-            "expanded_url" : "https://meiert.com/en/blog/37-theses/",
+            "expanded_url" : "https://meiert.com/blog/37-theses/",
             "display_url" : "meiert.com/en/blog/37-the…",
             "indices" : [
               "39",
@@ -110336,7 +110336,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/EMx38amHUv",
-            "expanded_url" : "https://meiert.com/en/blog/amp-strategy/",
+            "expanded_url" : "https://meiert.com/blog/amp-strategy/",
             "display_url" : "meiert.com/en/blog/amp-st…",
             "indices" : [
               "17",
@@ -110397,7 +110397,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/Yr3mwxgF8Q",
-            "expanded_url" : "https://meiert.com/en/blog/the-craft-of-css/",
+            "expanded_url" : "https://meiert.com/blog/the-craft-of-css/",
             "display_url" : "meiert.com/en/blog/the-cr…",
             "indices" : [
               "20",
@@ -111118,7 +111118,7 @@ module.exports = [
           },
           {
             "url" : "https://t.co/1FPC6gNVLi",
-            "expanded_url" : "https://meiert.com/en/blog/maintainability-guide-2/",
+            "expanded_url" : "https://meiert.com/blog/maintainability-guide-2/",
             "display_url" : "meiert.com/en/blog/mainta…",
             "indices" : [
               "251",
@@ -111308,7 +111308,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/grMvizdsZu",
-            "expanded_url" : "https://meiert.com/en/blog/user-centered-web-development/",
+            "expanded_url" : "https://meiert.com/blog/user-centered-web-development/",
             "display_url" : "meiert.com/en/blog/user-c…",
             "indices" : [
               "31",
@@ -111612,7 +111612,7 @@ module.exports = [
           },
           {
             "url" : "https://t.co/tMEef3RNDD",
-            "expanded_url" : "https://meiert.com/en/blog/difficult-developer-life/",
+            "expanded_url" : "https://meiert.com/blog/difficult-developer-life/",
             "display_url" : "meiert.com/en/blog/diffic…",
             "indices" : [
               "253",
@@ -111939,7 +111939,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/gmlWj1MvHB",
-            "expanded_url" : "https://meiert.com/en/blog/dependency-direction/",
+            "expanded_url" : "https://meiert.com/blog/dependency-direction/",
             "display_url" : "meiert.com/en/blog/depend…",
             "indices" : [
               "40",
@@ -112000,7 +112000,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/f985PwC2u9",
-            "expanded_url" : "https://meiert.com/en/blog/declaration-repetition-over-time/",
+            "expanded_url" : "https://meiert.com/blog/declaration-repetition-over-time/",
             "display_url" : "meiert.com/en/blog/declar…",
             "indices" : [
               "86",
@@ -112109,7 +112109,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/W0EQl8PbGk",
-            "expanded_url" : "https://meiert.com/en/blog/advice-to-young-men-highlights/",
+            "expanded_url" : "https://meiert.com/blog/advice-to-young-men-highlights/",
             "display_url" : "meiert.com/en/blog/advice…",
             "indices" : [
               "47",
@@ -112220,7 +112220,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/wVRrspVJrK",
-            "expanded_url" : "https://meiert.com/en/blog/on-loyalty/",
+            "expanded_url" : "https://meiert.com/blog/on-loyalty/",
             "display_url" : "meiert.com/en/blog/on-loy…",
             "indices" : [
               "13",
@@ -112274,7 +112274,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/1FPC6gNVLi",
-            "expanded_url" : "https://meiert.com/en/blog/maintainability-guide-2/",
+            "expanded_url" : "https://meiert.com/blog/maintainability-guide-2/",
             "display_url" : "meiert.com/en/blog/mainta…",
             "indices" : [
               "66",
@@ -112505,7 +112505,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/IeOlM3lD0g",
-            "expanded_url" : "https://meiert.com/en/blog/oh-wtf/",
+            "expanded_url" : "https://meiert.com/blog/oh-wtf/",
             "display_url" : "meiert.com/en/blog/oh-wtf/",
             "indices" : [
               "60",
@@ -112514,7 +112514,7 @@ module.exports = [
           },
           {
             "url" : "https://t.co/QTAi7ZlaIv",
-            "expanded_url" : "https://meiert.com/en/blog/big-picture-thinking/",
+            "expanded_url" : "https://meiert.com/blog/big-picture-thinking/",
             "display_url" : "meiert.com/en/blog/big-pi…",
             "indices" : [
               "124",
@@ -112586,7 +112586,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/WBjGx0u2nk",
-            "expanded_url" : "https://meiert.com/en/blog/nofollow-still-considered-harmful/",
+            "expanded_url" : "https://meiert.com/blog/nofollow-still-considered-harmful/",
             "display_url" : "meiert.com/en/blog/nofoll…",
             "indices" : [
               "114",
@@ -112595,7 +112595,7 @@ module.exports = [
           },
           {
             "url" : "https://t.co/jfkTcPnDCp",
-            "expanded_url" : "https://meiert.com/en/blog/evangelists-focus-on-standard-ad-code/",
+            "expanded_url" : "https://meiert.com/blog/evangelists-focus-on-standard-ad-code/",
             "display_url" : "meiert.com/en/blog/evange…",
             "indices" : [
               "196",
@@ -112604,7 +112604,7 @@ module.exports = [
           },
           {
             "url" : "https://t.co/jL1sCJpr9b",
-            "expanded_url" : "https://meiert.com/en/blog/web-design-15-important-research-findings-you-should-know/",
+            "expanded_url" : "https://meiert.com/blog/web-design-15-important-research-findings-you-should-know/",
             "display_url" : "meiert.com/en/blog/web-de…",
             "indices" : [
               "256",
@@ -112988,7 +112988,7 @@ module.exports = [
           },
           {
             "url" : "https://t.co/QTAi7ZlaIv",
-            "expanded_url" : "https://meiert.com/en/blog/big-picture-thinking/",
+            "expanded_url" : "https://meiert.com/blog/big-picture-thinking/",
             "display_url" : "meiert.com/en/blog/big-pi…",
             "indices" : [
               "241",
@@ -113049,7 +113049,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/IeOlM3DdRO",
-            "expanded_url" : "https://meiert.com/en/blog/oh-wtf/",
+            "expanded_url" : "https://meiert.com/blog/oh-wtf/",
             "display_url" : "meiert.com/en/blog/oh-wtf/",
             "indices" : [
               "51",
@@ -113311,7 +113311,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/34r4URhdOD",
-            "expanded_url" : "https://meiert.com/en/blog/static-sites-and-ifttt/",
+            "expanded_url" : "https://meiert.com/blog/static-sites-and-ifttt/",
             "display_url" : "meiert.com/en/blog/static…",
             "indices" : [
               "30",
@@ -113338,7 +113338,7 @@ module.exports = [
           },
           {
             "url" : "https://t.co/kR3RC7iQUE",
-            "expanded_url" : "https://meiert.com/en/blog/material-design-flaws/",
+            "expanded_url" : "https://meiert.com/blog/material-design-flaws/",
             "display_url" : "meiert.com/en/blog/materi…",
             "indices" : [
               "179",
@@ -113429,7 +113429,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/kR3RC7iQUE",
-            "expanded_url" : "https://meiert.com/en/blog/material-design-flaws/",
+            "expanded_url" : "https://meiert.com/blog/material-design-flaws/",
             "display_url" : "meiert.com/en/blog/materi…",
             "indices" : [
               "22",
@@ -113492,7 +113492,7 @@ module.exports = [
           },
           {
             "url" : "https://t.co/hEtVR3d60E",
-            "expanded_url" : "https://meiert.com/en/blog/amp/",
+            "expanded_url" : "https://meiert.com/blog/amp/",
             "display_url" : "meiert.com/en/blog/amp/",
             "indices" : [
               "60",
@@ -113647,7 +113647,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/34r4URhdOD",
-            "expanded_url" : "https://meiert.com/en/blog/static-sites-and-ifttt/",
+            "expanded_url" : "https://meiert.com/blog/static-sites-and-ifttt/",
             "display_url" : "meiert.com/en/blog/static…",
             "indices" : [
               "61",
@@ -113790,7 +113790,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/1vZrOCjzjj",
-            "expanded_url" : "https://meiert.com/en/blog/dry-css/",
+            "expanded_url" : "https://meiert.com/blog/dry-css/",
             "display_url" : "meiert.com/en/blog/dry-cs…",
             "indices" : [
               "106",
@@ -113799,7 +113799,7 @@ module.exports = [
           },
           {
             "url" : "https://t.co/QUGfSYsQ43",
-            "expanded_url" : "https://meiert.com/en/blog/css-extremes/",
+            "expanded_url" : "https://meiert.com/blog/css-extremes/",
             "display_url" : "meiert.com/en/blog/css-ex…",
             "indices" : [
               "219",
@@ -113881,7 +113881,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/QUGfSYsQ43",
-            "expanded_url" : "https://meiert.com/en/blog/css-extremes/",
+            "expanded_url" : "https://meiert.com/blog/css-extremes/",
             "display_url" : "meiert.com/en/blog/css-ex…",
             "indices" : [
               "68",
@@ -113951,7 +113951,7 @@ module.exports = [
           },
           {
             "url" : "https://t.co/1vZrOCjzjj",
-            "expanded_url" : "https://meiert.com/en/blog/dry-css/",
+            "expanded_url" : "https://meiert.com/blog/dry-css/",
             "display_url" : "meiert.com/en/blog/dry-cs…",
             "indices" : [
               "166",
@@ -114005,7 +114005,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/28wLrjSxkn",
-            "expanded_url" : "https://meiert.com/en/blog/people/",
+            "expanded_url" : "https://meiert.com/blog/people/",
             "display_url" : "meiert.com/en/blog/people/",
             "indices" : [
               "32",
@@ -114122,7 +114122,7 @@ module.exports = [
           },
           {
             "url" : "https://t.co/l3a5DIpCgk",
-            "expanded_url" : "https://meiert.com/en/blog/css-dry-and-optimization/",
+            "expanded_url" : "https://meiert.com/blog/css-dry-and-optimization/",
             "display_url" : "meiert.com/en/blog/css-dr…",
             "indices" : [
               "131",
@@ -114131,7 +114131,7 @@ module.exports = [
           },
           {
             "url" : "https://t.co/xv9FcOgRUy",
-            "expanded_url" : "https://meiert.com/en/blog/user-agent-style-sheets/",
+            "expanded_url" : "https://meiert.com/blog/user-agent-style-sheets/",
             "display_url" : "meiert.com/en/blog/user-a…",
             "indices" : [
               "202",
@@ -114194,7 +114194,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/gHbauQofqX",
-            "expanded_url" : "https://meiert.com/en/blog/what-we-know/",
+            "expanded_url" : "https://meiert.com/blog/what-we-know/",
             "display_url" : "meiert.com/en/blog/what-w…",
             "indices" : [
               "15",
@@ -114388,7 +114388,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/bycb2qDQEz",
-            "expanded_url" : "https://meiert.com/en/blog/1000-poems/",
+            "expanded_url" : "https://meiert.com/blog/1000-poems/",
             "display_url" : "meiert.com/en/blog/1000-p…",
             "indices" : [
               "25",
@@ -114449,7 +114449,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/JxlMeGNR3Y",
-            "expanded_url" : "https://meiert.com/en/blog/private-random/",
+            "expanded_url" : "https://meiert.com/blog/private-random/",
             "display_url" : "meiert.com/en/blog/privat…",
             "indices" : [
               "64",
@@ -114534,7 +114534,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/NH0CQL2HQq",
-            "expanded_url" : "https://meiert.com/en/blog/complexity/",
+            "expanded_url" : "https://meiert.com/blog/complexity/",
             "display_url" : "meiert.com/en/blog/comple…",
             "indices" : [
               "50",
@@ -114591,7 +114591,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/PTvoxEJr72",
-            "expanded_url" : "https://meiert.com/en/blog/smashing-magazine/",
+            "expanded_url" : "https://meiert.com/blog/smashing-magazine/",
             "display_url" : "meiert.com/en/blog/smashi…",
             "indices" : [
               "24",
@@ -114810,7 +114810,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/3GN5pORSZX",
-            "expanded_url" : "https://meiert.com/en/blog/performance-of-css-selectors-2/",
+            "expanded_url" : "https://meiert.com/blog/performance-of-css-selectors-2/",
             "display_url" : "meiert.com/en/blog/perfor…",
             "indices" : [
               "53",
@@ -114878,7 +114878,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/QTAi7ZlaIv",
-            "expanded_url" : "https://meiert.com/en/blog/big-picture-thinking/",
+            "expanded_url" : "https://meiert.com/blog/big-picture-thinking/",
             "display_url" : "meiert.com/en/blog/big-pi…",
             "indices" : [
               "46",
@@ -115060,7 +115060,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/7gbjX1nxW9",
-            "expanded_url" : "https://meiert.com/en/blog/htmltuesday/",
+            "expanded_url" : "https://meiert.com/blog/htmltuesday/",
             "display_url" : "meiert.com/en/blog/htmltu…",
             "indices" : [
               "72",
@@ -115069,7 +115069,7 @@ module.exports = [
           },
           {
             "url" : "https://t.co/LljCCgauag",
-            "expanded_url" : "https://meiert.com/en/blog/feeds-in-grow/",
+            "expanded_url" : "https://meiert.com/blog/feeds-in-grow/",
             "display_url" : "meiert.com/en/blog/feeds-…",
             "indices" : [
               "163",
@@ -115078,7 +115078,7 @@ module.exports = [
           },
           {
             "url" : "https://t.co/ChV3mQR81E",
-            "expanded_url" : "https://meiert.com/en/blog/selector-order/",
+            "expanded_url" : "https://meiert.com/blog/selector-order/",
             "display_url" : "meiert.com/en/blog/select…",
             "indices" : [
               "245",
@@ -115139,7 +115139,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/ChV3mQR81E",
-            "expanded_url" : "https://meiert.com/en/blog/selector-order/",
+            "expanded_url" : "https://meiert.com/blog/selector-order/",
             "display_url" : "meiert.com/en/blog/select…",
             "indices" : [
               "56",
@@ -115257,7 +115257,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/7gbjX1nxW9",
-            "expanded_url" : "https://meiert.com/en/blog/htmltuesday/",
+            "expanded_url" : "https://meiert.com/blog/htmltuesday/",
             "display_url" : "meiert.com/en/blog/htmltu…",
             "indices" : [
               "173",
@@ -115318,7 +115318,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/LljCCgauag",
-            "expanded_url" : "https://meiert.com/en/blog/feeds-in-grow/",
+            "expanded_url" : "https://meiert.com/blog/feeds-in-grow/",
             "display_url" : "meiert.com/en/blog/feeds-…",
             "indices" : [
               "69",
@@ -116646,7 +116646,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/n1yZze5dzL",
-            "expanded_url" : "https://meiert.com/en/blog/the-scientific-irony/",
+            "expanded_url" : "https://meiert.com/blog/the-scientific-irony/",
             "display_url" : "meiert.com/en/blog/the-sc…",
             "indices" : [
               "24",
@@ -116714,7 +116714,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/1vZrOCjzjj",
-            "expanded_url" : "https://meiert.com/en/blog/dry-css/",
+            "expanded_url" : "https://meiert.com/blog/dry-css/",
             "display_url" : "meiert.com/en/blog/dry-cs…",
             "indices" : [
               "110",
@@ -116857,7 +116857,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/1vZrOCjzjj",
-            "expanded_url" : "https://meiert.com/en/blog/dry-css/",
+            "expanded_url" : "https://meiert.com/blog/dry-css/",
             "display_url" : "meiert.com/en/blog/dry-cs…",
             "indices" : [
               "60",
@@ -116932,7 +116932,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/xA1gFyrfsz",
-            "expanded_url" : "https://meiert.com/en/blog/css-organization-and-efficiency/",
+            "expanded_url" : "https://meiert.com/blog/css-organization-and-efficiency/",
             "display_url" : "meiert.com/en/blog/css-or…",
             "indices" : [
               "49",
@@ -117014,7 +117014,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/IITWTQr6NW",
-            "expanded_url" : "https://meiert.com/en/blog/consistency-levels/",
+            "expanded_url" : "https://meiert.com/blog/consistency-levels/",
             "display_url" : "meiert.com/en/blog/consis…",
             "indices" : [
               "25",
@@ -117032,7 +117032,7 @@ module.exports = [
           },
           {
             "url" : "https://t.co/Pr9YX2oHfP",
-            "expanded_url" : "https://meiert.com/en/blog/reasons-against-resets/",
+            "expanded_url" : "https://meiert.com/blog/reasons-against-resets/",
             "display_url" : "meiert.com/en/blog/reason…",
             "indices" : [
               "97",
@@ -117107,7 +117107,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/Pr9YX2oHfP",
-            "expanded_url" : "https://meiert.com/en/blog/reasons-against-resets/",
+            "expanded_url" : "https://meiert.com/blog/reasons-against-resets/",
             "display_url" : "meiert.com/en/blog/reason…",
             "indices" : [
               "51",
@@ -117175,7 +117175,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/IITWTQr6NW",
-            "expanded_url" : "https://meiert.com/en/blog/consistency-levels/",
+            "expanded_url" : "https://meiert.com/blog/consistency-levels/",
             "display_url" : "meiert.com/en/blog/consis…",
             "indices" : [
               "36",
@@ -117445,7 +117445,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/vkwicNP0CA",
-            "expanded_url" : "https://meiert.com/en/blog/simple-code/",
+            "expanded_url" : "https://meiert.com/blog/simple-code/",
             "display_url" : "meiert.com/en/blog/simple…",
             "indices" : [
               "50",
@@ -117620,7 +117620,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/QdBXmL3iNq",
-            "expanded_url" : "https://meiert.com/en/blog/on-enforcing-coding-guidelines/",
+            "expanded_url" : "https://meiert.com/blog/on-enforcing-coding-guidelines/",
             "display_url" : "meiert.com/en/blog/on-enf…",
             "indices" : [
               "34",
@@ -117800,7 +117800,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/CnPcDhHTqa",
-            "expanded_url" : "https://meiert.com/en/blog/email-all-the-companies/",
+            "expanded_url" : "https://meiert.com/blog/email-all-the-companies/",
             "display_url" : "meiert.com/en/blog/email-…",
             "indices" : [
               "105",
@@ -117868,7 +117868,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/dLebfSuz30",
-            "expanded_url" : "https://meiert.com/en/blog/email-all-the-mps/",
+            "expanded_url" : "https://meiert.com/blog/email-all-the-mps/",
             "display_url" : "meiert.com/en/blog/email-…",
             "indices" : [
               "97",
@@ -117929,7 +117929,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/9C6OWoezqu",
-            "expanded_url" : "https://meiert.com/en/blog/freedom-money/",
+            "expanded_url" : "https://meiert.com/blog/freedom-money/",
             "display_url" : "meiert.com/en/blog/freedo…",
             "indices" : [
               "22",
@@ -117990,7 +117990,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/fDimtgBbVx",
-            "expanded_url" : "https://meiert.com/en/blog/destroying-is-not-arguing/",
+            "expanded_url" : "https://meiert.com/blog/destroying-is-not-arguing/",
             "display_url" : "meiert.com/en/blog/destro…",
             "indices" : [
               "72",
@@ -118169,7 +118169,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/xlGwYHcZpy",
-            "expanded_url" : "https://meiert.com/en/blog/the-cost-of-frameworks/",
+            "expanded_url" : "https://meiert.com/blog/the-cost-of-frameworks/",
             "display_url" : "meiert.com/en/blog/the-co…",
             "indices" : [
               "39",
@@ -118393,7 +118393,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/PFZpbP7v3j",
-            "expanded_url" : "https://meiert.com/en/blog/css-at-rules/",
+            "expanded_url" : "https://meiert.com/blog/css-at-rules/",
             "display_url" : "meiert.com/en/blog/css-at…",
             "indices" : [
               "28",
@@ -118470,7 +118470,7 @@ module.exports = [
           },
           {
             "url" : "https://t.co/td79F0eeJH",
-            "expanded_url" : "https://meiert.com/en/blog/luck/",
+            "expanded_url" : "https://meiert.com/blog/luck/",
             "display_url" : "meiert.com/en/blog/luck/",
             "indices" : [
               "112",
@@ -118524,7 +118524,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/td79F0eeJH",
-            "expanded_url" : "https://meiert.com/en/blog/luck/",
+            "expanded_url" : "https://meiert.com/blog/luck/",
             "display_url" : "meiert.com/en/blog/luck/",
             "indices" : [
               "25",
@@ -118667,7 +118667,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/QCLSjvwGZZ",
-            "expanded_url" : "https://meiert.com/en/blog/save-the-cmss/",
+            "expanded_url" : "https://meiert.com/blog/save-the-cmss/",
             "display_url" : "meiert.com/en/blog/save-t…",
             "indices" : [
               "29",
@@ -118676,7 +118676,7 @@ module.exports = [
           },
           {
             "url" : "https://t.co/Kkd2LHFVJD",
-            "expanded_url" : "https://meiert.com/en/blog/teaching-developers/",
+            "expanded_url" : "https://meiert.com/blog/teaching-developers/",
             "display_url" : "meiert.com/en/blog/teachi…",
             "indices" : [
               "73",
@@ -118828,7 +118828,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/Kkd2LHFVJD",
-            "expanded_url" : "https://meiert.com/en/blog/teaching-developers/",
+            "expanded_url" : "https://meiert.com/blog/teaching-developers/",
             "display_url" : "meiert.com/en/blog/teachi…",
             "indices" : [
               "49",
@@ -118953,7 +118953,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/QCLSjvwGZZ",
-            "expanded_url" : "https://meiert.com/en/blog/save-the-cmss/",
+            "expanded_url" : "https://meiert.com/blog/save-the-cmss/",
             "display_url" : "meiert.com/en/blog/save-t…",
             "indices" : [
               "61",
@@ -119044,7 +119044,7 @@ module.exports = [
           },
           {
             "url" : "https://t.co/xMeqew5GgW",
-            "expanded_url" : "https://meiert.com/en/blog/how-to-order-css-selectors/",
+            "expanded_url" : "https://meiert.com/blog/how-to-order-css-selectors/",
             "display_url" : "meiert.com/en/blog/how-to…",
             "indices" : [
               "66",
@@ -119053,7 +119053,7 @@ module.exports = [
           },
           {
             "url" : "https://t.co/TtETIbks9f",
-            "expanded_url" : "https://meiert.com/en/blog/10-photos-5/",
+            "expanded_url" : "https://meiert.com/blog/10-photos-5/",
             "display_url" : "meiert.com/en/blog/10-pho…",
             "indices" : [
               "105",
@@ -119097,7 +119097,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/xMeqew5GgW",
-            "expanded_url" : "https://meiert.com/en/blog/how-to-order-css-selectors/",
+            "expanded_url" : "https://meiert.com/blog/how-to-order-css-selectors/",
             "display_url" : "meiert.com/en/blog/how-to…",
             "indices" : [
               "46",
@@ -119330,7 +119330,7 @@ module.exports = [
           },
           {
             "url" : "https://t.co/e3VKpKEt9F",
-            "expanded_url" : "https://meiert.com/en/blog/living-websites-living-books/",
+            "expanded_url" : "https://meiert.com/blog/living-websites-living-books/",
             "display_url" : "meiert.com/en/blog/living…",
             "indices" : [
               "59",
@@ -119472,7 +119472,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/e3VKpKEt9F",
-            "expanded_url" : "https://meiert.com/en/blog/living-websites-living-books/",
+            "expanded_url" : "https://meiert.com/blog/living-websites-living-books/",
             "display_url" : "meiert.com/en/blog/living…",
             "indices" : [
               "33",
@@ -119594,7 +119594,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/ttrkqgcN5M",
-            "expanded_url" : "https://meiert.com/en/blog/optimization-measures-8/",
+            "expanded_url" : "https://meiert.com/blog/optimization-measures-8/",
             "display_url" : "meiert.com/en/blog/optimi…",
             "indices" : [
               "44",
@@ -119657,7 +119657,7 @@ module.exports = [
           },
           {
             "url" : "https://t.co/vnmm3H9qBv",
-            "expanded_url" : "https://meiert.com/en/help/meta/",
+            "expanded_url" : "https://meiert.com/help/meta/",
             "display_url" : "meiert.com/en/help/meta/",
             "indices" : [
               "114",
@@ -119725,7 +119725,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/tMEef3RNDD",
-            "expanded_url" : "https://meiert.com/en/blog/difficult-developer-life/",
+            "expanded_url" : "https://meiert.com/blog/difficult-developer-life/",
             "display_url" : "meiert.com/en/blog/diffic…",
             "indices" : [
               "54",
@@ -119734,7 +119734,7 @@ module.exports = [
           },
           {
             "url" : "https://t.co/3KkIVVMuIY",
-            "expanded_url" : "https://meiert.com/en/blog/on-adventure/",
+            "expanded_url" : "https://meiert.com/blog/on-adventure/",
             "display_url" : "meiert.com/en/blog/on-adv…",
             "indices" : [
               "109",
@@ -119788,7 +119788,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/3KkIVVMuIY",
-            "expanded_url" : "https://meiert.com/en/blog/on-adventure/",
+            "expanded_url" : "https://meiert.com/blog/on-adventure/",
             "display_url" : "meiert.com/en/blog/on-adv…",
             "indices" : [
               "15",
@@ -119856,7 +119856,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/tMEef3RNDD",
-            "expanded_url" : "https://meiert.com/en/blog/difficult-developer-life/",
+            "expanded_url" : "https://meiert.com/blog/difficult-developer-life/",
             "display_url" : "meiert.com/en/blog/diffic…",
             "indices" : [
               "87",
@@ -119928,7 +119928,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/6bRT6m7whN",
-            "expanded_url" : "https://meiert.com/en/blog/google-web-frameworks/",
+            "expanded_url" : "https://meiert.com/blog/google-web-frameworks/",
             "display_url" : "meiert.com/en/blog/google…",
             "indices" : [
               "63",
@@ -119937,7 +119937,7 @@ module.exports = [
           },
           {
             "url" : "https://t.co/hSnsixWN3j",
-            "expanded_url" : "https://meiert.com/en/blog/web-dev-overdone/",
+            "expanded_url" : "https://meiert.com/blog/web-dev-overdone/",
             "display_url" : "meiert.com/en/blog/web-de…",
             "indices" : [
               "115",
@@ -120005,7 +120005,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/hSnsixWN3j",
-            "expanded_url" : "https://meiert.com/en/blog/web-dev-overdone/",
+            "expanded_url" : "https://meiert.com/blog/web-dev-overdone/",
             "display_url" : "meiert.com/en/blog/web-de…",
             "indices" : [
               "83",
@@ -120134,7 +120134,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/6bRT6mp79l",
-            "expanded_url" : "https://meiert.com/en/blog/google-web-frameworks/",
+            "expanded_url" : "https://meiert.com/blog/google-web-frameworks/",
             "display_url" : "meiert.com/en/blog/google…",
             "indices" : [
               "51",
@@ -120321,7 +120321,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/RnpJkpFyJz",
-            "expanded_url" : "https://meiert.com/en/blog/boyscout-code/",
+            "expanded_url" : "https://meiert.com/blog/boyscout-code/",
             "display_url" : "meiert.com/en/blog/boysco…",
             "indices" : [
               "16",
@@ -120504,7 +120504,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/geEBxnt9gX",
-            "expanded_url" : "https://meiert.com/en/blog/stop-using-resets/",
+            "expanded_url" : "https://meiert.com/blog/stop-using-resets/",
             "display_url" : "meiert.com/en/blog/stop-u…",
             "indices" : [
               "90",
@@ -120558,7 +120558,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/ZZMyclT2yE",
-            "expanded_url" : "https://meiert.com/en/blog/optional-tags-in-html-4/",
+            "expanded_url" : "https://meiert.com/blog/optional-tags-in-html-4/",
             "display_url" : "meiert.com/en/blog/option…",
             "indices" : [
               "90",
@@ -121655,7 +121655,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/RhtvagM0BM",
-            "expanded_url" : "https://meiert.com/en/blog/20170619/two-paradigms/",
+            "expanded_url" : "https://meiert.com/blog/20170619/two-paradigms/",
             "display_url" : "meiert.com/en/blog/201706…",
             "indices" : [
               "36",
@@ -121740,7 +121740,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/21h03qb2YL",
-            "expanded_url" : "https://meiert.com/en/blog/20170531/70-percent-css-repetition/",
+            "expanded_url" : "https://meiert.com/blog/20170531/70-percent-css-repetition/",
             "display_url" : "meiert.com/en/blog/201705…",
             "indices" : [
               "21",
@@ -121803,7 +121803,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/hiJGxMgBRS",
-            "expanded_url" : "https://meiert.com/en/blog/20170616/maintainability-survey-results/",
+            "expanded_url" : "https://meiert.com/blog/20170616/maintainability-survey-results/",
             "display_url" : "meiert.com/en/blog/201706…",
             "indices" : [
               "47",
@@ -121871,7 +121871,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/Y8tHNbhiGQ",
-            "expanded_url" : "https://meiert.com/en/blog/20170613/us-interview-moratorium/",
+            "expanded_url" : "https://meiert.com/blog/20170613/us-interview-moratorium/",
             "display_url" : "meiert.com/en/blog/201706…",
             "indices" : [
               "46",
@@ -121925,7 +121925,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/mTJITDmyAY",
-            "expanded_url" : "https://meiert.com/en/blog/20170609/answers-to-terrorism/",
+            "expanded_url" : "https://meiert.com/blog/20170609/answers-to-terrorism/",
             "display_url" : "meiert.com/en/blog/201706…",
             "indices" : [
               "50",
@@ -121993,7 +121993,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/kX05ZbDJev",
-            "expanded_url" : "https://meiert.com/en/blog/20170607/regarding-the-fermi-paradox/",
+            "expanded_url" : "https://meiert.com/blog/20170607/regarding-the-fermi-paradox/",
             "display_url" : "meiert.com/en/blog/201706…",
             "indices" : [
               "31",
@@ -122311,7 +122311,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/SqOERWe1Hu",
-            "expanded_url" : "https://meiert.com/en/blog/20170531/70-percent-css-repetition/#toc-faq",
+            "expanded_url" : "https://meiert.com/blog/20170531/70-percent-css-repetition/#toc-faq",
             "display_url" : "meiert.com/en/blog/201705…",
             "indices" : [
               "118",
@@ -122372,7 +122372,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/21h03qsDQj",
-            "expanded_url" : "https://meiert.com/en/blog/20170531/70-percent-css-repetition/",
+            "expanded_url" : "https://meiert.com/blog/20170531/70-percent-css-repetition/",
             "display_url" : "meiert.com/en/blog/201705…",
             "indices" : [
               "75",
@@ -123483,7 +123483,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/hxuqtGtaaT",
-            "expanded_url" : "https://meiert.com/en/blog/20170514/maintainability-survey/",
+            "expanded_url" : "https://meiert.com/blog/20170514/maintainability-survey/",
             "display_url" : "meiert.com/en/blog/201705…",
             "indices" : [
               "39",
@@ -123661,7 +123661,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/BnMKK5dsJk",
-            "expanded_url" : "https://meiert.com/en/blog/20170426/on-work/",
+            "expanded_url" : "https://meiert.com/blog/20170426/on-work/",
             "display_url" : "meiert.com/en/blog/201704…",
             "indices" : [
               "10",
@@ -123855,7 +123855,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/1LvPctr3q6",
-            "expanded_url" : "https://meiert.com/en/blog/20131122/drm-and-html/",
+            "expanded_url" : "https://meiert.com/blog/20131122/drm-and-html/",
             "display_url" : "meiert.com/en/blog/201311…",
             "indices" : [
               "27",
@@ -124138,7 +124138,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/mwleIN6SGN",
-            "expanded_url" : "https://meiert.com/en/blog/20170329/my-top-10-android-apps/",
+            "expanded_url" : "https://meiert.com/blog/20170329/my-top-10-android-apps/",
             "display_url" : "meiert.com/en/blog/201703…",
             "indices" : [
               "26",
@@ -124317,7 +124317,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/6hjeh79IE2",
-            "expanded_url" : "https://meiert.com/en/blog/20170321/foreigners-are-heroes/",
+            "expanded_url" : "https://meiert.com/blog/20170321/foreigners-are-heroes/",
             "display_url" : "meiert.com/en/blog/201703…",
             "indices" : [
               "25",
@@ -124385,7 +124385,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/JbMj1NnoSV",
-            "expanded_url" : "https://meiert.com/en/blog/20170308/on-socialization/",
+            "expanded_url" : "https://meiert.com/blog/20170308/on-socialization/",
             "display_url" : "meiert.com/en/blog/201703…",
             "indices" : [
               "19",
@@ -124453,7 +124453,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/VauJf6vZ1N",
-            "expanded_url" : "https://meiert.com/en/blog/20170302/human-gods/",
+            "expanded_url" : "https://meiert.com/blog/20170302/human-gods/",
             "display_url" : "meiert.com/en/blog/201703…",
             "indices" : [
               "48",
@@ -124655,7 +124655,7 @@ module.exports = [
           },
           {
             "url" : "https://t.co/bb5wnAaab3",
-            "expanded_url" : "https://meiert.com/en/blog/20080812/best-practice-ids-and-classes/",
+            "expanded_url" : "https://meiert.com/blog/20080812/best-practice-ids-and-classes/",
             "display_url" : "meiert.com/en/blog/200808…",
             "indices" : [
               "114",
@@ -124806,7 +124806,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/zb0sv6Htj5",
-            "expanded_url" : "https://meiert.com/en/blog/20170216/principles-of-web-development/",
+            "expanded_url" : "https://meiert.com/blog/20170216/principles-of-web-development/",
             "display_url" : "meiert.com/en/blog/201702…",
             "indices" : [
               "33",
@@ -124876,7 +124876,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/vnY86ayeBS",
-            "expanded_url" : "https://meiert.com/en/blog/20170213/html-statistics-5-take-aways/",
+            "expanded_url" : "https://meiert.com/blog/20170213/html-statistics-5-take-aways/",
             "display_url" : "meiert.com/en/blog/201702…",
             "indices" : [
               "33",
@@ -125011,7 +125011,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/isxQYsZm6T",
-            "expanded_url" : "https://meiert.com/en/blog/20170210/10-photos-4/",
+            "expanded_url" : "https://meiert.com/blog/20170210/10-photos-4/",
             "display_url" : "meiert.com/en/blog/201702…",
             "indices" : [
               "15",
@@ -125083,7 +125083,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/VQHVuvCUiK",
-            "expanded_url" : "https://meiert.com/en/blog/20170206/a-digital-charta/",
+            "expanded_url" : "https://meiert.com/blog/20170206/a-digital-charta/",
             "display_url" : "meiert.com/en/blog/201702…",
             "indices" : [
               "20",
@@ -125209,7 +125209,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/n56sNTCCZn",
-            "expanded_url" : "https://meiert.com/en/blog/20170201/the-great-neglect/",
+            "expanded_url" : "https://meiert.com/blog/20170201/the-great-neglect/",
             "display_url" : "meiert.com/en/blog/201702…",
             "indices" : [
               "20",
@@ -125349,7 +125349,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/pNjEX6GT66",
-            "expanded_url" : "https://meiert.com/en/blog/20170118/the-constructivist-preference/",
+            "expanded_url" : "https://meiert.com/blog/20170118/the-constructivist-preference/",
             "display_url" : "meiert.com/en/blog/201701…",
             "indices" : [
               "33",
@@ -125536,7 +125536,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/rVrFTEwOw0",
-            "expanded_url" : "https://meiert.com/en/blog/20170112/quality-logistics/",
+            "expanded_url" : "https://meiert.com/blog/20170112/quality-logistics/",
             "display_url" : "meiert.com/en/blog/201701…",
             "indices" : [
               "28",
@@ -125669,7 +125669,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/ajYcTh8rT3",
-            "expanded_url" : "https://meiert.com/en/blog/20170108/apocryphal-apostrophes/",
+            "expanded_url" : "https://meiert.com/blog/20170108/apocryphal-apostrophes/",
             "display_url" : "meiert.com/en/blog/201701…",
             "indices" : [
               "25",
@@ -126176,7 +126176,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/yQ6f90hq8s",
-            "expanded_url" : "https://meiert.com/en/blog/20161221/css-shorthands/",
+            "expanded_url" : "https://meiert.com/blog/20161221/css-shorthands/",
             "display_url" : "meiert.com/en/blog/201612…",
             "indices" : [
               "45",
@@ -126448,7 +126448,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/sIytAV0CKo",
-            "expanded_url" : "https://meiert.com/en/blog/20161214/no-css-preprocessors/",
+            "expanded_url" : "https://meiert.com/blog/20161214/no-css-preprocessors/",
             "display_url" : "meiert.com/en/blog/201612…",
             "indices" : [
               "37",
@@ -126803,7 +126803,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/lzwYaPsxB7",
-            "expanded_url" : "https://meiert.com/en/blog/20161209/contradictions/",
+            "expanded_url" : "https://meiert.com/blog/20161209/contradictions/",
             "display_url" : "meiert.com/en/blog/201612…",
             "indices" : [
               "61",
@@ -129744,7 +129744,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/L4emqjeJ4Z",
-            "expanded_url" : "https://meiert.com/en/blog/one-favicon/",
+            "expanded_url" : "https://meiert.com/blog/one-favicon/",
             "display_url" : "meiert.com/en/blog/one-fa…",
             "indices" : [
               "243",
@@ -130035,7 +130035,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/8DiqyQPs5M",
-            "expanded_url" : "https://meiert.com/en/blog/the-aging-developer/",
+            "expanded_url" : "https://meiert.com/blog/the-aging-developer/",
             "display_url" : "meiert.com/en/blog/the-ag…",
             "indices" : [
               "19",
@@ -130380,7 +130380,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/L5Kv8KLlrF",
-            "expanded_url" : "https://meiert.com/en/blog/redo-vs-iterate/",
+            "expanded_url" : "https://meiert.com/blog/redo-vs-iterate/",
             "display_url" : "meiert.com/en/blog/redo-v…",
             "indices" : [
               "249",
@@ -130848,7 +130848,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/5BtoVkg8OB",
-            "expanded_url" : "https://meiert.com/en/blog/questioning-root/",
+            "expanded_url" : "https://meiert.com/blog/questioning-root/",
             "display_url" : "meiert.com/en/blog/questi…",
             "indices" : [
               "62",
@@ -131392,7 +131392,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/VXIFl8MydD",
-            "expanded_url" : "https://meiert.com/en/blog/good-embed-code/",
+            "expanded_url" : "https://meiert.com/blog/good-embed-code/",
             "display_url" : "meiert.com/en/blog/good-e…",
             "indices" : [
               "247",
@@ -141292,7 +141292,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/aywbWRL4wy",
-            "expanded_url" : "https://meiert.com/en/blog/the-lost-paradigm/",
+            "expanded_url" : "https://meiert.com/blog/the-lost-paradigm/",
             "display_url" : "meiert.com/en/blog/the-lo…",
             "indices" : [
               "51",
@@ -141343,7 +141343,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/xv9FcOgRUy",
-            "expanded_url" : "https://meiert.com/en/blog/user-agent-style-sheets/",
+            "expanded_url" : "https://meiert.com/blog/user-agent-style-sheets/",
             "display_url" : "meiert.com/en/blog/user-a…",
             "indices" : [
               "27",
@@ -141949,7 +141949,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/L4emqjeJ4Z",
-            "expanded_url" : "https://meiert.com/en/blog/one-favicon/",
+            "expanded_url" : "https://meiert.com/blog/one-favicon/",
             "display_url" : "meiert.com/en/blog/one-fa…",
             "indices" : [
               "162",
@@ -148468,7 +148468,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/GCz0ijrsEq",
-            "expanded_url" : "https://meiert.com/en/blog/not-releasing-on-fridays/",
+            "expanded_url" : "https://meiert.com/blog/not-releasing-on-fridays/",
             "display_url" : "meiert.com/en/blog/not-re…",
             "indices" : [
               "77",
@@ -148753,7 +148753,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/ix51p63o93",
-            "expanded_url" : "https://meiert.com/en/blog/tips-to-read-more-and-faster/",
+            "expanded_url" : "https://meiert.com/blog/tips-to-read-more-and-faster/",
             "display_url" : "meiert.com/en/blog/tips-t…",
             "indices" : [
               "252",
@@ -151234,7 +151234,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/16ro0t6Pvq",
-            "expanded_url" : "https://meiert.com/en/blog/the-ways-of-writing-html/",
+            "expanded_url" : "https://meiert.com/blog/the-ways-of-writing-html/",
             "display_url" : "meiert.com/en/blog/the-wa…",
             "indices" : [
               "77",
@@ -151383,7 +151383,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/UvP9SEwVkl",
-            "expanded_url" : "https://meiert.com/en/blog/pareto-optimization/",
+            "expanded_url" : "https://meiert.com/blog/pareto-optimization/",
             "display_url" : "meiert.com/en/blog/pareto…",
             "indices" : [
               "254",
@@ -153609,7 +153609,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/wXZgoSk63A",
-            "expanded_url" : "https://meiert.com/en/blog/critical-frontend-development/",
+            "expanded_url" : "https://meiert.com/blog/critical-frontend-development/",
             "display_url" : "meiert.com/en/blog/critic…",
             "indices" : [
               "245",
@@ -154096,7 +154096,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/KBGbOU4KSG",
-            "expanded_url" : "https://meiert.com/en/blog/develop-for-what-is/",
+            "expanded_url" : "https://meiert.com/blog/develop-for-what-is/",
             "display_url" : "meiert.com/en/blog/develo…",
             "indices" : [
               "92",
@@ -154153,7 +154153,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/J4h0hzwxJR",
-            "expanded_url" : "https://meiert.com/en/blog/the-css-art-paradox/",
+            "expanded_url" : "https://meiert.com/blog/the-css-art-paradox/",
             "display_url" : "meiert.com/en/blog/the-cs…",
             "indices" : [
               "97",
@@ -154577,7 +154577,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/HHdT1j0joZ",
-            "expanded_url" : "https://meiert.com/en/blog/optimization-measures-14/",
+            "expanded_url" : "https://meiert.com/blog/optimization-measures-14/",
             "display_url" : "meiert.com/en/blog/optimi…",
             "indices" : [
               "152",
@@ -155755,7 +155755,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/t5uBqK8Jc3",
-            "expanded_url" : "https://meiert.com/en/blog/minimal-social-markup/",
+            "expanded_url" : "https://meiert.com/blog/minimal-social-markup/",
             "display_url" : "meiert.com/en/blog/minima…",
             "indices" : [
               "215",
@@ -156318,7 +156318,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/16ro0t6Pvq",
-            "expanded_url" : "https://meiert.com/en/blog/the-ways-of-writing-html/",
+            "expanded_url" : "https://meiert.com/blog/the-ways-of-writing-html/",
             "display_url" : "meiert.com/en/blog/the-wa…",
             "indices" : [
               "55",
@@ -156369,7 +156369,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/vZx6axtvnI",
-            "expanded_url" : "https://meiert.com/en/blog/optional-html/",
+            "expanded_url" : "https://meiert.com/blog/optional-html/",
             "display_url" : "meiert.com/en/blog/option…",
             "indices" : [
               "131",
@@ -157588,7 +157588,7 @@ module.exports = [
           },
           {
             "url" : "https://t.co/2nbbvh7sAy",
-            "expanded_url" : "https://meiert.com/en/blog/vegan-web-developers/",
+            "expanded_url" : "https://meiert.com/blog/vegan-web-developers/",
             "display_url" : "meiert.com/en/blog/vegan-…",
             "indices" : [
               "191",
@@ -157929,7 +157929,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/AflmLc31n4",
-            "expanded_url" : "https://meiert.com/en/blog/selector-variables/",
+            "expanded_url" : "https://meiert.com/blog/selector-variables/",
             "display_url" : "meiert.com/en/blog/select…",
             "indices" : [
               "255",
@@ -158210,7 +158210,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/zRHYLjxha2",
-            "expanded_url" : "https://meiert.com/en/blog/no-clearfix/",
+            "expanded_url" : "https://meiert.com/blog/no-clearfix/",
             "display_url" : "meiert.com/en/blog/no-cle…",
             "indices" : [
               "55",
@@ -159175,7 +159175,7 @@ module.exports = [
           },
           {
             "url" : "https://t.co/xv9FcOgRUy",
-            "expanded_url" : "https://meiert.com/en/blog/user-agent-style-sheets/",
+            "expanded_url" : "https://meiert.com/blog/user-agent-style-sheets/",
             "display_url" : "meiert.com/en/blog/user-a…",
             "indices" : [
               "204",
@@ -160376,7 +160376,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/TArutP51f4",
-            "expanded_url" : "https://meiert.com/en/blog/accessibility-get-well-plan/",
+            "expanded_url" : "https://meiert.com/blog/accessibility-get-well-plan/",
             "display_url" : "meiert.com/en/blog/access…",
             "indices" : [
               "242",
@@ -160529,7 +160529,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/kHuI69j6O8",
-            "expanded_url" : "https://meiert.com/en/blog/the-frameworks-paradox/",
+            "expanded_url" : "https://meiert.com/blog/the-frameworks-paradox/",
             "display_url" : "meiert.com/en/blog/the-fr…",
             "indices" : [
               "48",
@@ -160877,7 +160877,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/OpH4YfcMpz",
-            "expanded_url" : "https://meiert.com/en/blog/must-work-without-javascript/",
+            "expanded_url" : "https://meiert.com/blog/must-work-without-javascript/",
             "display_url" : "meiert.com/en/blog/must-w…",
             "indices" : [
               "262",
@@ -160990,7 +160990,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/geEBxnt9gX",
-            "expanded_url" : "https://meiert.com/en/blog/stop-using-resets/",
+            "expanded_url" : "https://meiert.com/blog/stop-using-resets/",
             "display_url" : "meiert.com/en/blog/stop-u…",
             "indices" : [
               "148",
@@ -160999,7 +160999,7 @@ module.exports = [
           },
           {
             "url" : "https://t.co/2xtzOFnH7z",
-            "expanded_url" : "https://meiert.com/en/blog/the-anti-reset/",
+            "expanded_url" : "https://meiert.com/blog/the-anti-reset/",
             "display_url" : "meiert.com/en/blog/the-an…",
             "indices" : [
               "268",
@@ -163247,7 +163247,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/1QEZ7Xbg7u",
-            "expanded_url" : "https://meiert.com/en/blog/deterioration-of-practices/",
+            "expanded_url" : "https://meiert.com/blog/deterioration-of-practices/",
             "display_url" : "meiert.com/en/blog/deteri…",
             "indices" : [
               "68",
@@ -164051,7 +164051,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/6oKolKX6Q6",
-            "expanded_url" : "https://meiert.com/en/blog/boolean-attributes-of-html/",
+            "expanded_url" : "https://meiert.com/blog/boolean-attributes-of-html/",
             "display_url" : "meiert.com/en/blog/boolea…",
             "indices" : [
               "145",
@@ -164218,7 +164218,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/3mvHqcyCoc",
-            "expanded_url" : "https://meiert.com/en/blog/on-writing-better-markup/",
+            "expanded_url" : "https://meiert.com/blog/on-writing-better-markup/",
             "display_url" : "meiert.com/en/blog/on-wri…",
             "indices" : [
               "50",
@@ -164310,7 +164310,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/hxJMU8LRwc",
-            "expanded_url" : "https://meiert.com/en/blog/html-focusable-areas/",
+            "expanded_url" : "https://meiert.com/blog/html-focusable-areas/",
             "display_url" : "meiert.com/en/blog/html-f…",
             "indices" : [
               "226",
@@ -165298,7 +165298,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/5NpBvV7cst",
-            "expanded_url" : "https://meiert.com/en/blog/on-declaration-sorting/",
+            "expanded_url" : "https://meiert.com/blog/on-declaration-sorting/",
             "display_url" : "meiert.com/en/blog/on-dec…",
             "indices" : [
               "220",
@@ -165517,7 +165517,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/VutUlbgRPD",
-            "expanded_url" : "https://meiert.com/en/blog/hammers-hurt/",
+            "expanded_url" : "https://meiert.com/blog/hammers-hurt/",
             "display_url" : "meiert.com/en/blog/hammer…",
             "indices" : [
               "77",
@@ -166427,7 +166427,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/W6c0oR9JCo",
-            "expanded_url" : "https://meiert.com/en/blog/breadcrumbs-in-html/",
+            "expanded_url" : "https://meiert.com/blog/breadcrumbs-in-html/",
             "display_url" : "meiert.com/en/blog/breadc…",
             "indices" : [
               "65",
@@ -166861,7 +166861,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/cNkj4MBGIY",
-            "expanded_url" : "https://meiert.com/en/blog/write-html/",
+            "expanded_url" : "https://meiert.com/blog/write-html/",
             "display_url" : "meiert.com/en/blog/write-…",
             "indices" : [
               "249",
@@ -166974,7 +166974,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/PzRUN2diBA",
-            "expanded_url" : "https://meiert.com/en/blog/wcag-html-and-css-maybe-the-standards-need-a-break/",
+            "expanded_url" : "https://meiert.com/blog/wcag-html-and-css-maybe-the-standards-need-a-break/",
             "display_url" : "meiert.com/en/blog/wcag-h…",
             "indices" : [
               "218",
@@ -167839,7 +167839,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/l3a5DIpCgk",
-            "expanded_url" : "https://meiert.com/en/blog/css-dry-and-optimization/",
+            "expanded_url" : "https://meiert.com/blog/css-dry-and-optimization/",
             "display_url" : "meiert.com/en/blog/css-dr…",
             "indices" : [
               "126",
@@ -168430,7 +168430,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/h7qmHgELqM",
-            "expanded_url" : "https://meiert.com/en/blog/active-and-passive-accessibility/",
+            "expanded_url" : "https://meiert.com/blog/active-and-passive-accessibility/",
             "display_url" : "meiert.com/en/blog/active…",
             "indices" : [
               "246",
@@ -168583,7 +168583,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/0mzwNVxzMa",
-            "expanded_url" : "https://meiert.com/en/blog/urls-in-print/",
+            "expanded_url" : "https://meiert.com/blog/urls-in-print/",
             "display_url" : "meiert.com/en/blog/urls-i…",
             "indices" : [
               "161",
@@ -169321,7 +169321,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/GVJlanMZuy",
-            "expanded_url" : "https://meiert.com/en/blog/law-of-maintainability/",
+            "expanded_url" : "https://meiert.com/blog/law-of-maintainability/",
             "display_url" : "meiert.com/en/blog/law-of…",
             "indices" : [
               "52",
@@ -169444,7 +169444,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/GA2G4IE5Ds",
-            "expanded_url" : "https://meiert.com/en/blog/the-number-of-html-elements/",
+            "expanded_url" : "https://meiert.com/blog/the-number-of-html-elements/",
             "display_url" : "meiert.com/en/blog/the-nu…",
             "indices" : [
               "70",
@@ -169658,7 +169658,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/lefanNjelQ",
-            "expanded_url" : "https://meiert.com/en/blog/the-css-problem/",
+            "expanded_url" : "https://meiert.com/blog/the-css-problem/",
             "display_url" : "meiert.com/en/blog/the-cs…",
             "indices" : [
               "181",
@@ -170680,7 +170680,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/Yq1sadgETz",
-            "expanded_url" : "https://meiert.com/en/blog/the-ways-of-writing-html/#toc-semantic",
+            "expanded_url" : "https://meiert.com/blog/the-ways-of-writing-html/#toc-semantic",
             "display_url" : "meiert.com/en/blog/the-wa…",
             "indices" : [
               "84",
@@ -171695,7 +171695,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/n49IQ9ReAL",
-            "expanded_url" : "https://meiert.com/en/blog/the-ways-of-writing-html/#toc-combinations",
+            "expanded_url" : "https://meiert.com/blog/the-ways-of-writing-html/#toc-combinations",
             "display_url" : "meiert.com/en/blog/the-wa…",
             "indices" : [
               "141",
@@ -171908,7 +171908,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/J4h0hzwxJR",
-            "expanded_url" : "https://meiert.com/en/blog/the-css-art-paradox/",
+            "expanded_url" : "https://meiert.com/blog/the-css-art-paradox/",
             "display_url" : "meiert.com/en/blog/the-cs…",
             "indices" : [
               "88",
@@ -172616,7 +172616,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/CTG9aIvFyW",
-            "expanded_url" : "https://meiert.com/en/blog/3-books-for-working-with-reality/",
+            "expanded_url" : "https://meiert.com/blog/3-books-for-working-with-reality/",
             "display_url" : "meiert.com/en/blog/3-book…",
             "indices" : [
               "149",
@@ -172728,7 +172728,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/92XgN7cn9a",
-            "expanded_url" : "https://meiert.com/en/blog/css-shorthands/",
+            "expanded_url" : "https://meiert.com/blog/css-shorthands/",
             "display_url" : "meiert.com/en/blog/css-sh…",
             "indices" : [
               "216",
@@ -172825,7 +172825,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/gOFh9sZ3lc",
-            "expanded_url" : "https://meiert.com/en/blog/4-books-to-become-a-greater-person/",
+            "expanded_url" : "https://meiert.com/blog/4-books-to-become-a-greater-person/",
             "display_url" : "meiert.com/en/blog/4-book…",
             "indices" : [
               "254",
@@ -173040,7 +173040,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/Qkn3OjBLFw",
-            "expanded_url" : "https://meiert.com/en/blog/3-books-to-become-a-better-developer/",
+            "expanded_url" : "https://meiert.com/blog/3-books-to-become-a-better-developer/",
             "display_url" : "meiert.com/en/blog/3-book…",
             "indices" : [
               "157",
@@ -173112,7 +173112,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/dUHkKWkQL7",
-            "expanded_url" : "https://meiert.com/en/blog/valid-html-2021/",
+            "expanded_url" : "https://meiert.com/blog/valid-html-2021/",
             "display_url" : "meiert.com/en/blog/valid-…",
             "indices" : [
               "43",
@@ -173306,7 +173306,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/jPd041tyQ8",
-            "expanded_url" : "https://meiert.com/en/blog/4-books-to-become-more-efficient-and-effective/",
+            "expanded_url" : "https://meiert.com/blog/4-books-to-become-more-efficient-and-effective/",
             "display_url" : "meiert.com/en/blog/4-book…",
             "indices" : [
               "225",
@@ -174216,7 +174216,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/MNwpdFYMWE",
-            "expanded_url" : "https://meiert.com/en/blog/logical-properties/",
+            "expanded_url" : "https://meiert.com/blog/logical-properties/",
             "display_url" : "meiert.com/en/blog/logica…",
             "indices" : [
               "61",
@@ -174348,7 +174348,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/OItYwSxJ7C",
-            "expanded_url" : "https://meiert.com/en/blog/70-percent-css-repetition/",
+            "expanded_url" : "https://meiert.com/blog/70-percent-css-repetition/",
             "display_url" : "meiert.com/en/blog/70-per…",
             "indices" : [
               "256",
@@ -175788,7 +175788,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/75J266Dp7T",
-            "expanded_url" : "https://meiert.com/en/blog/html-commands-and-facets/",
+            "expanded_url" : "https://meiert.com/blog/html-commands-and-facets/",
             "display_url" : "meiert.com/en/blog/html-c…",
             "indices" : [
               "116",
@@ -175977,7 +175977,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/8DiqyR73um",
-            "expanded_url" : "https://meiert.com/en/blog/the-aging-developer/",
+            "expanded_url" : "https://meiert.com/blog/the-aging-developer/",
             "display_url" : "meiert.com/en/blog/the-ag…",
             "indices" : [
               "62",
@@ -177781,7 +177781,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/sDydWSMkq9",
-            "expanded_url" : "https://meiert.com/en/blog/professional-web-developer/",
+            "expanded_url" : "https://meiert.com/blog/professional-web-developer/",
             "display_url" : "meiert.com/en/blog/profes…",
             "indices" : [
               "221",
@@ -178225,7 +178225,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/QTAi7ZlaIv",
-            "expanded_url" : "https://meiert.com/en/blog/big-picture-thinking/",
+            "expanded_url" : "https://meiert.com/blog/big-picture-thinking/",
             "display_url" : "meiert.com/en/blog/big-pi…",
             "indices" : [
               "68",
@@ -179353,7 +179353,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/tHKn6OePHX",
-            "expanded_url" : "https://meiert.com/en/blog/optimization-measures-13/",
+            "expanded_url" : "https://meiert.com/blog/optimization-measures-13/",
             "display_url" : "meiert.com/en/blog/optimi…",
             "indices" : [
               "230",
@@ -179883,7 +179883,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/vkwicNP0CA",
-            "expanded_url" : "https://meiert.com/en/blog/simple-code/",
+            "expanded_url" : "https://meiert.com/blog/simple-code/",
             "display_url" : "meiert.com/en/blog/simple…",
             "indices" : [
               "71",
@@ -181134,7 +181134,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/yO08OxS9OC",
-            "expanded_url" : "https://meiert.com/en/blog/optional-html/#toc-tags",
+            "expanded_url" : "https://meiert.com/blog/optional-html/#toc-tags",
             "display_url" : "meiert.com/en/blog/option…",
             "indices" : [
               "52",
@@ -181280,7 +181280,7 @@ module.exports = [
           },
           {
             "url" : "https://t.co/6oKolKXEFE",
-            "expanded_url" : "https://meiert.com/en/blog/boolean-attributes-of-html/",
+            "expanded_url" : "https://meiert.com/blog/boolean-attributes-of-html/",
             "display_url" : "meiert.com/en/blog/boolea…",
             "indices" : [
               "150",
@@ -182244,7 +182244,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/L5Kv8KLThd",
-            "expanded_url" : "https://meiert.com/en/blog/redo-vs-iterate/",
+            "expanded_url" : "https://meiert.com/blog/redo-vs-iterate/",
             "display_url" : "meiert.com/en/blog/redo-v…",
             "indices" : [
               "229",
@@ -183000,7 +183000,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/xlGwYHcZpy",
-            "expanded_url" : "https://meiert.com/en/blog/the-cost-of-frameworks/",
+            "expanded_url" : "https://meiert.com/blog/the-cost-of-frameworks/",
             "display_url" : "meiert.com/en/blog/the-co…",
             "indices" : [
               "61",
@@ -184155,7 +184155,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/NbWGv8SHTN",
-            "expanded_url" : "https://meiert.com/en/blog/the-greatest-secret-in-web-design/",
+            "expanded_url" : "https://meiert.com/blog/the-greatest-secret-in-web-design/",
             "display_url" : "meiert.com/en/blog/the-gr…",
             "indices" : [
               "91",
@@ -184824,7 +184824,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/9DFmYZRI4y",
-            "expanded_url" : "https://meiert.com/en/blog/css-bookmarklets/",
+            "expanded_url" : "https://meiert.com/blog/css-bookmarklets/",
             "display_url" : "meiert.com/en/blog/css-bo…",
             "indices" : [
               "58",
@@ -185248,7 +185248,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/rxOcc8zg7y",
-            "expanded_url" : "https://meiert.com/en/blog/25-web-development-terms/",
+            "expanded_url" : "https://meiert.com/blog/25-web-development-terms/",
             "display_url" : "meiert.com/en/blog/25-web…",
             "indices" : [
               "173",
@@ -187643,7 +187643,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/aywbWRL4wy",
-            "expanded_url" : "https://meiert.com/en/blog/the-lost-paradigm/",
+            "expanded_url" : "https://meiert.com/blog/the-lost-paradigm/",
             "display_url" : "meiert.com/en/blog/the-lo…",
             "indices" : [
               "61",
@@ -188166,7 +188166,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/GA2G4IE5Ds",
-            "expanded_url" : "https://meiert.com/en/blog/the-number-of-html-elements/",
+            "expanded_url" : "https://meiert.com/blog/the-number-of-html-elements/",
             "display_url" : "meiert.com/en/blog/the-nu…",
             "indices" : [
               "199",
@@ -188670,7 +188670,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/SI6woyFAjY",
-            "expanded_url" : "https://meiert.com/en/blog/googliness/",
+            "expanded_url" : "https://meiert.com/blog/googliness/",
             "display_url" : "meiert.com/en/blog/googli…",
             "indices" : [
               "255",
@@ -189185,7 +189185,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/YUT2t4tuws",
-            "expanded_url" : "https://meiert.com/en/blog/collaboration-with-designers/",
+            "expanded_url" : "https://meiert.com/blog/collaboration-with-designers/",
             "display_url" : "meiert.com/en/blog/collab…",
             "indices" : [
               "87",
@@ -189752,7 +189752,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/hcmTW7ZW8N",
-            "expanded_url" : "https://meiert.com/en/blog/optional-html/",
+            "expanded_url" : "https://meiert.com/blog/optional-html/",
             "display_url" : "meiert.com/en/blog/option…",
             "indices" : [
               "55",
@@ -189925,7 +189925,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/b7KavraMx2",
-            "expanded_url" : "https://meiert.com/en/blog/new-talent/",
+            "expanded_url" : "https://meiert.com/blog/new-talent/",
             "display_url" : "meiert.com/en/blog/new-ta…",
             "indices" : [
               "128",
@@ -190377,7 +190377,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/5Y3S3dxoIM",
-            "expanded_url" : "https://meiert.com/en/blog/re-2021/",
+            "expanded_url" : "https://meiert.com/blog/re-2021/",
             "display_url" : "meiert.com/en/blog/re-202…",
             "indices" : [
               "189",
@@ -190515,7 +190515,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/VXIFl8MydD",
-            "expanded_url" : "https://meiert.com/en/blog/good-embed-code/",
+            "expanded_url" : "https://meiert.com/blog/good-embed-code/",
             "display_url" : "meiert.com/en/blog/good-e…",
             "indices" : [
               "52",
@@ -190891,7 +190891,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/mNtcQaJsXS",
-            "expanded_url" : "https://meiert.com/en/blog/f/",
+            "expanded_url" : "https://meiert.com/blog/f/",
             "display_url" : "meiert.com/en/blog/f/",
             "indices" : [
               "25",
@@ -190900,7 +190900,7 @@ module.exports = [
           },
           {
             "url" : "https://t.co/dUHkKWkQL7",
-            "expanded_url" : "https://meiert.com/en/blog/valid-html-2021/",
+            "expanded_url" : "https://meiert.com/blog/valid-html-2021/",
             "display_url" : "meiert.com/en/blog/valid-…",
             "indices" : [
               "113",
@@ -190909,7 +190909,7 @@ module.exports = [
           },
           {
             "url" : "https://t.co/L4emqjebfr",
-            "expanded_url" : "https://meiert.com/en/blog/one-favicon/",
+            "expanded_url" : "https://meiert.com/blog/one-favicon/",
             "display_url" : "meiert.com/en/blog/one-fa…",
             "indices" : [
               "171",
@@ -190960,7 +190960,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/562pBnm2IR",
-            "expanded_url" : "https://meiert.com/en/blog/listen/",
+            "expanded_url" : "https://meiert.com/blog/listen/",
             "display_url" : "meiert.com/en/blog/listen/",
             "indices" : [
               "53",
@@ -190969,7 +190969,7 @@ module.exports = [
           },
           {
             "url" : "https://t.co/rHXSrTffYv",
-            "expanded_url" : "https://meiert.com/en/blog/engineering-management-12/",
+            "expanded_url" : "https://meiert.com/blog/engineering-management-12/",
             "display_url" : "meiert.com/en/blog/engine…",
             "indices" : [
               "108",
@@ -190978,7 +190978,7 @@ module.exports = [
           },
           {
             "url" : "https://t.co/Vh42zOR6qc",
-            "expanded_url" : "https://meiert.com/en/blog/the-frontend-developer-test/",
+            "expanded_url" : "https://meiert.com/blog/the-frontend-developer-test/",
             "display_url" : "meiert.com/en/blog/the-fr…",
             "indices" : [
               "173",
@@ -190987,7 +190987,7 @@ module.exports = [
           },
           {
             "url" : "https://t.co/Pa7qhF0kkf",
-            "expanded_url" : "https://meiert.com/en/blog/web-developer-pilgrimage/",
+            "expanded_url" : "https://meiert.com/blog/web-developer-pilgrimage/",
             "display_url" : "meiert.com/en/blog/web-de…",
             "indices" : [
               "239",
@@ -191047,7 +191047,7 @@ module.exports = [
           },
           {
             "url" : "https://t.co/wXZgoSk63A",
-            "expanded_url" : "https://meiert.com/en/blog/critical-frontend-development/",
+            "expanded_url" : "https://meiert.com/blog/critical-frontend-development/",
             "display_url" : "meiert.com/en/blog/critic…",
             "indices" : [
               "123",
@@ -191056,7 +191056,7 @@ module.exports = [
           },
           {
             "url" : "https://t.co/RZNNRWF4CW",
-            "expanded_url" : "https://meiert.com/en/blog/promotion-or-raise/",
+            "expanded_url" : "https://meiert.com/blog/promotion-or-raise/",
             "display_url" : "meiert.com/en/blog/promot…",
             "indices" : [
               "198",
@@ -191065,7 +191065,7 @@ module.exports = [
           },
           {
             "url" : "https://t.co/16ro0t6Pvq",
-            "expanded_url" : "https://meiert.com/en/blog/the-ways-of-writing-html/",
+            "expanded_url" : "https://meiert.com/blog/the-ways-of-writing-html/",
             "display_url" : "meiert.com/en/blog/the-wa…",
             "indices" : [
               "253",
@@ -194303,7 +194303,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/opdCe5Dgqk",
-            "expanded_url" : "https://meiert.com/en/blog/run-your-own-website/",
+            "expanded_url" : "https://meiert.com/blog/run-your-own-website/",
             "display_url" : "meiert.com/en/blog/run-yo…",
             "indices" : [
               "132",
@@ -194987,7 +194987,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/mc52XBkjz1",
-            "expanded_url" : "https://meiert.com/en/blog/html-form-owners/",
+            "expanded_url" : "https://meiert.com/blog/html-form-owners/",
             "display_url" : "meiert.com/en/blog/html-f…",
             "indices" : [
               "225",
@@ -195898,7 +195898,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/2xtzOFnH7z",
-            "expanded_url" : "https://meiert.com/en/blog/the-anti-reset/",
+            "expanded_url" : "https://meiert.com/blog/the-anti-reset/",
             "display_url" : "meiert.com/en/blog/the-an…",
             "indices" : [
               "72",
@@ -197473,7 +197473,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/l3a5DIpCgk",
-            "expanded_url" : "https://meiert.com/en/blog/css-dry-and-optimization/",
+            "expanded_url" : "https://meiert.com/blog/css-dry-and-optimization/",
             "display_url" : "meiert.com/en/blog/css-dr…",
             "indices" : [
               "57",
@@ -198074,7 +198074,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/Du8ArFjAHv",
-            "expanded_url" : "https://meiert.com/en/blog/frameworks-guidelines-quality-craft/",
+            "expanded_url" : "https://meiert.com/blog/frameworks-guidelines-quality-craft/",
             "display_url" : "meiert.com/en/blog/framew…",
             "indices" : [
               "253",
@@ -198841,7 +198841,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/16ro0t6Pvq",
-            "expanded_url" : "https://meiert.com/en/blog/the-ways-of-writing-html/",
+            "expanded_url" : "https://meiert.com/blog/the-ways-of-writing-html/",
             "display_url" : "meiert.com/en/blog/the-wa…",
             "indices" : [
               "239",
@@ -200280,7 +200280,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/16ro0t6Pvq",
-            "expanded_url" : "https://meiert.com/en/blog/the-ways-of-writing-html/",
+            "expanded_url" : "https://meiert.com/blog/the-ways-of-writing-html/",
             "display_url" : "meiert.com/en/blog/the-wa…",
             "indices" : [
               "226",
@@ -201428,7 +201428,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/y2oikX91UN",
-            "expanded_url" : "https://meiert.com/en/blog/print-styling-basics/",
+            "expanded_url" : "https://meiert.com/blog/print-styling-basics/",
             "display_url" : "meiert.com/en/blog/print-…",
             "indices" : [
               "53",
@@ -202686,7 +202686,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/8YeZu8DPH4",
-            "expanded_url" : "https://meiert.com/en/blog/the-1000-dollar-comment-game/",
+            "expanded_url" : "https://meiert.com/blog/the-1000-dollar-comment-game/",
             "display_url" : "meiert.com/en/blog/the-10…",
             "indices" : [
               "257",
@@ -203307,7 +203307,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/dUHkKWkQL7",
-            "expanded_url" : "https://meiert.com/en/blog/valid-html-2021/",
+            "expanded_url" : "https://meiert.com/blog/valid-html-2021/",
             "display_url" : "meiert.com/en/blog/valid-…",
             "indices" : [
               "93",
@@ -204214,7 +204214,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/VXIFl8MydD",
-            "expanded_url" : "https://meiert.com/en/blog/good-embed-code/",
+            "expanded_url" : "https://meiert.com/blog/good-embed-code/",
             "display_url" : "meiert.com/en/blog/good-e…",
             "indices" : [
               "134",
@@ -204444,7 +204444,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/1vZrOCjzjj",
-            "expanded_url" : "https://meiert.com/en/blog/dry-css/",
+            "expanded_url" : "https://meiert.com/blog/dry-css/",
             "display_url" : "meiert.com/en/blog/dry-cs…",
             "indices" : [
               "81",
@@ -206208,7 +206208,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/4Tw2UceDLv",
-            "expanded_url" : "https://meiert.com/en/blog/html-common-idioms/",
+            "expanded_url" : "https://meiert.com/blog/html-common-idioms/",
             "display_url" : "meiert.com/en/blog/html-c…",
             "indices" : [
               "187",
@@ -208675,7 +208675,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/xjs1zK4eGB",
-            "expanded_url" : "https://meiert.com/en/blog/33-web-development-terms/",
+            "expanded_url" : "https://meiert.com/blog/33-web-development-terms/",
             "display_url" : "meiert.com/en/blog/33-web…",
             "indices" : [
               "76",
@@ -209200,7 +209200,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/Pa7qhF0kkf",
-            "expanded_url" : "https://meiert.com/en/blog/web-developer-pilgrimage/",
+            "expanded_url" : "https://meiert.com/blog/web-developer-pilgrimage/",
             "display_url" : "meiert.com/en/blog/web-de…",
             "indices" : [
               "241",
@@ -210126,7 +210126,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/VXIFl8MydD",
-            "expanded_url" : "https://meiert.com/en/blog/good-embed-code/",
+            "expanded_url" : "https://meiert.com/blog/good-embed-code/",
             "display_url" : "meiert.com/en/blog/good-e…",
             "indices" : [
               "236",
@@ -211030,7 +211030,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/2xtzOFnH7z",
-            "expanded_url" : "https://meiert.com/en/blog/the-anti-reset/",
+            "expanded_url" : "https://meiert.com/blog/the-anti-reset/",
             "display_url" : "meiert.com/en/blog/the-an…",
             "indices" : [
               "59",
@@ -211409,7 +211409,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/VXIFl8MydD",
-            "expanded_url" : "https://meiert.com/en/blog/good-embed-code/",
+            "expanded_url" : "https://meiert.com/blog/good-embed-code/",
             "display_url" : "meiert.com/en/blog/good-e…",
             "indices" : [
               "58",
@@ -213504,7 +213504,7 @@ module.exports = [
           },
           {
             "url" : "https://t.co/kMN35Hkbwr",
-            "expanded_url" : "https://meiert.com/en/blog/page-language-in-screen-readers/",
+            "expanded_url" : "https://meiert.com/blog/page-language-in-screen-readers/",
             "display_url" : "meiert.com/en/blog/page-l…",
             "indices" : [
               "255",
@@ -215283,7 +215283,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/988CULCAAA",
-            "expanded_url" : "https://meiert.com/en/blog/changes-in-language/",
+            "expanded_url" : "https://meiert.com/blog/changes-in-language/",
             "display_url" : "meiert.com/en/blog/change…",
             "indices" : [
               "239",
@@ -215466,7 +215466,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/kMN35HBMnZ",
-            "expanded_url" : "https://meiert.com/en/blog/page-language-in-screen-readers/",
+            "expanded_url" : "https://meiert.com/blog/page-language-in-screen-readers/",
             "display_url" : "meiert.com/en/blog/page-l…",
             "indices" : [
               "255",
@@ -215512,7 +215512,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/wXZgoSk63A",
-            "expanded_url" : "https://meiert.com/en/blog/critical-frontend-development/",
+            "expanded_url" : "https://meiert.com/blog/critical-frontend-development/",
             "display_url" : "meiert.com/en/blog/critic…",
             "indices" : [
               "225",
@@ -215631,7 +215631,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/OItYwSxJ7C",
-            "expanded_url" : "https://meiert.com/en/blog/70-percent-css-repetition/",
+            "expanded_url" : "https://meiert.com/blog/70-percent-css-repetition/",
             "display_url" : "meiert.com/en/blog/70-per…",
             "indices" : [
               "97",
@@ -216779,7 +216779,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/GCz0ijJ3vY",
-            "expanded_url" : "https://meiert.com/en/blog/not-releasing-on-fridays/",
+            "expanded_url" : "https://meiert.com/blog/not-releasing-on-fridays/",
             "display_url" : "meiert.com/en/blog/not-re…",
             "indices" : [
               "56",
@@ -217920,7 +217920,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/AQOGAaLe3O",
-            "expanded_url" : "https://meiert.com/en/blog/html-2022/",
+            "expanded_url" : "https://meiert.com/blog/html-2022/",
             "display_url" : "meiert.com/en/blog/html-2…",
             "indices" : [
               "219",
@@ -221339,7 +221339,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/vZx6axtvnI",
-            "expanded_url" : "https://meiert.com/en/blog/optional-html/",
+            "expanded_url" : "https://meiert.com/blog/optional-html/",
             "display_url" : "meiert.com/en/blog/option…",
             "indices" : [
               "169",
@@ -222298,7 +222298,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/gWPiN4HL3C",
-            "expanded_url" : "https://meiert.com/en/blog/html-layout-table-indicators/",
+            "expanded_url" : "https://meiert.com/blog/html-layout-table-indicators/",
             "display_url" : "meiert.com/en/blog/html-l…",
             "indices" : [
               "220",
@@ -224573,7 +224573,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/y2oikX91UN",
-            "expanded_url" : "https://meiert.com/en/blog/print-styling-basics/",
+            "expanded_url" : "https://meiert.com/blog/print-styling-basics/",
             "display_url" : "meiert.com/en/blog/print-…",
             "indices" : [
               "222",
@@ -225486,7 +225486,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/1FPC6gwkmI",
-            "expanded_url" : "https://meiert.com/en/blog/maintainability-guide-2/",
+            "expanded_url" : "https://meiert.com/blog/maintainability-guide-2/",
             "display_url" : "meiert.com/en/blog/mainta…",
             "indices" : [
               "90",
@@ -226177,7 +226177,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/TpS3pLGZCZ",
-            "expanded_url" : "https://meiert.com/en/blog/5-eleventy-tweaks/",
+            "expanded_url" : "https://meiert.com/blog/5-eleventy-tweaks/",
             "display_url" : "meiert.com/en/blog/5-elev…",
             "indices" : [
               "189",
@@ -227499,7 +227499,7 @@ module.exports = [
           },
           {
             "url" : "https://t.co/F7jgoiMlxf",
-            "expanded_url" : "https://meiert.com/en/blog/the-most-annoying-task/",
+            "expanded_url" : "https://meiert.com/blog/the-most-annoying-task/",
             "display_url" : "meiert.com/en/blog/the-mo…",
             "indices" : [
               "254",
@@ -228345,7 +228345,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/iUX8x8J9Zd",
-            "expanded_url" : "https://meiert.com/en/blog/css-optimization-basics/",
+            "expanded_url" : "https://meiert.com/blog/css-optimization-basics/",
             "display_url" : "meiert.com/en/blog/css-op…",
             "indices" : [
               "256",
@@ -229141,7 +229141,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/5NpBvV7cst",
-            "expanded_url" : "https://meiert.com/en/blog/on-declaration-sorting/",
+            "expanded_url" : "https://meiert.com/blog/on-declaration-sorting/",
             "display_url" : "meiert.com/en/blog/on-dec…",
             "indices" : [
               "240",
@@ -230137,7 +230137,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/8RETVMf8pj",
-            "expanded_url" : "https://meiert.com/en/blog/on-semantics-in-html/",
+            "expanded_url" : "https://meiert.com/blog/on-semantics-in-html/",
             "display_url" : "meiert.com/en/blog/on-sem…",
             "indices" : [
               "273",
@@ -231114,7 +231114,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/SsE2Q5YCMJ",
-            "expanded_url" : "https://meiert.com/en/blog/the-google-error-page/",
+            "expanded_url" : "https://meiert.com/blog/the-google-error-page/",
             "display_url" : "meiert.com/en/blog/the-go…",
             "indices" : [
               "212",
@@ -231181,7 +231181,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/SsE2Q5YCMJ",
-            "expanded_url" : "https://meiert.com/en/blog/the-google-error-page/",
+            "expanded_url" : "https://meiert.com/blog/the-google-error-page/",
             "display_url" : "meiert.com/en/blog/the-go…",
             "indices" : [
               "65",
@@ -231232,7 +231232,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/opdCe5Dgqk",
-            "expanded_url" : "https://meiert.com/en/blog/run-your-own-website/",
+            "expanded_url" : "https://meiert.com/blog/run-your-own-website/",
             "display_url" : "meiert.com/en/blog/run-yo…",
             "indices" : [
               "92",
@@ -231626,7 +231626,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/L4emqjebfr",
-            "expanded_url" : "https://meiert.com/en/blog/one-favicon/",
+            "expanded_url" : "https://meiert.com/blog/one-favicon/",
             "display_url" : "meiert.com/en/blog/one-fa…",
             "indices" : [
               "195",
@@ -232329,7 +232329,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/bBzGvhCGgB",
-            "expanded_url" : "https://meiert.com/en/blog/lang/",
+            "expanded_url" : "https://meiert.com/blog/lang/",
             "display_url" : "meiert.com/en/blog/lang/",
             "indices" : [
               "254",
@@ -233330,7 +233330,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/wXZgoSk63A",
-            "expanded_url" : "https://meiert.com/en/blog/critical-frontend-development/",
+            "expanded_url" : "https://meiert.com/blog/critical-frontend-development/",
             "display_url" : "meiert.com/en/blog/critic…",
             "indices" : [
               "221",
@@ -233339,7 +233339,7 @@ module.exports = [
           },
           {
             "url" : "https://t.co/vZx6axtvnI",
-            "expanded_url" : "https://meiert.com/en/blog/optional-html/",
+            "expanded_url" : "https://meiert.com/blog/optional-html/",
             "display_url" : "meiert.com/en/blog/option…",
             "indices" : [
               "246",
@@ -233604,7 +233604,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/wlqrnZRtKs",
-            "expanded_url" : "https://meiert.com/en/blog/google-code-quality/",
+            "expanded_url" : "https://meiert.com/blog/google-code-quality/",
             "display_url" : "meiert.com/en/blog/google…",
             "indices" : [
               "238",
@@ -235476,7 +235476,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/XUECAL4oHN",
-            "expanded_url" : "https://meiert.com/en/blog/important/",
+            "expanded_url" : "https://meiert.com/blog/important/",
             "display_url" : "meiert.com/en/blog/import…",
             "indices" : [
               "268",
@@ -235877,7 +235877,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/2xtzOFnH7z",
-            "expanded_url" : "https://meiert.com/en/blog/the-anti-reset/",
+            "expanded_url" : "https://meiert.com/blog/the-anti-reset/",
             "display_url" : "meiert.com/en/blog/the-an…",
             "indices" : [
               "259",
@@ -236079,7 +236079,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/T5UcnoVFQt",
-            "expanded_url" : "https://meiert.com/en/blog/caring-about-comments/",
+            "expanded_url" : "https://meiert.com/blog/caring-about-comments/",
             "display_url" : "meiert.com/en/blog/caring…",
             "indices" : [
               "255",
@@ -236429,7 +236429,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/ha7tRU04RT",
-            "expanded_url" : "https://meiert.com/en/blog/vision-of-web-dev/",
+            "expanded_url" : "https://meiert.com/blog/vision-of-web-dev/",
             "display_url" : "meiert.com/en/blog/vision…",
             "indices" : [
               "53",
@@ -236863,7 +236863,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/VXIFl8MydD",
-            "expanded_url" : "https://meiert.com/en/blog/good-embed-code/",
+            "expanded_url" : "https://meiert.com/blog/good-embed-code/",
             "display_url" : "meiert.com/en/blog/good-e…",
             "indices" : [
               "255",
@@ -237108,7 +237108,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/fGkXbdScLL",
-            "expanded_url" : "https://meiert.com/en/blog/survival-of-the-primitive/",
+            "expanded_url" : "https://meiert.com/blog/survival-of-the-primitive/",
             "display_url" : "meiert.com/en/blog/surviv…",
             "indices" : [
               "251",
@@ -237297,7 +237297,7 @@ module.exports = [
           },
           {
             "url" : "https://t.co/xMeqew5GgW",
-            "expanded_url" : "https://meiert.com/en/blog/how-to-order-css-selectors/",
+            "expanded_url" : "https://meiert.com/blog/how-to-order-css-selectors/",
             "display_url" : "meiert.com/en/blog/how-to…",
             "indices" : [
               "153",
@@ -237398,7 +237398,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/gRnIbhEmo0",
-            "expanded_url" : "https://meiert.com/en/blog/nomadism/",
+            "expanded_url" : "https://meiert.com/blog/nomadism/",
             "display_url" : "meiert.com/en/blog/nomadi…",
             "indices" : [
               "249",
@@ -237804,7 +237804,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/jBZAp7dJ4I",
-            "expanded_url" : "https://meiert.com/en/blog/on-mistakes/",
+            "expanded_url" : "https://meiert.com/blog/on-mistakes/",
             "display_url" : "meiert.com/en/blog/on-mis…",
             "indices" : [
               "255",
@@ -238033,7 +238033,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/iJA1LNLPRE",
-            "expanded_url" : "https://meiert.com/en/blog/years-of-crowdfunding/",
+            "expanded_url" : "https://meiert.com/blog/years-of-crowdfunding/",
             "display_url" : "meiert.com/en/blog/years-…",
             "indices" : [
               "254",
@@ -238219,7 +238219,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/5NpBvV7cst",
-            "expanded_url" : "https://meiert.com/en/blog/on-declaration-sorting/",
+            "expanded_url" : "https://meiert.com/blog/on-declaration-sorting/",
             "display_url" : "meiert.com/en/blog/on-dec…",
             "indices" : [
               "161",
@@ -238488,7 +238488,7 @@ module.exports = [
           },
           {
             "url" : "https://t.co/xv9FcOgRUy",
-            "expanded_url" : "https://meiert.com/en/blog/user-agent-style-sheets/",
+            "expanded_url" : "https://meiert.com/blog/user-agent-style-sheets/",
             "display_url" : "meiert.com/en/blog/user-a…",
             "indices" : [
               "194",
@@ -240048,7 +240048,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/8RETVMeAzL",
-            "expanded_url" : "https://meiert.com/en/blog/on-semantics-in-html/",
+            "expanded_url" : "https://meiert.com/blog/on-semantics-in-html/",
             "display_url" : "meiert.com/en/blog/on-sem…",
             "indices" : [
               "256",
@@ -240628,7 +240628,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/dUHkKWkQL7",
-            "expanded_url" : "https://meiert.com/en/blog/valid-html-2021/",
+            "expanded_url" : "https://meiert.com/blog/valid-html-2021/",
             "display_url" : "meiert.com/en/blog/valid-…",
             "indices" : [
               "168",
@@ -241051,7 +241051,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/9woyW8gzVI",
-            "expanded_url" : "https://meiert.com/en/blog/html-constraint-validation/",
+            "expanded_url" : "https://meiert.com/blog/html-constraint-validation/",
             "display_url" : "meiert.com/en/blog/html-c…",
             "indices" : [
               "253",
@@ -241223,7 +241223,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/XUECAL4oHN",
-            "expanded_url" : "https://meiert.com/en/blog/important/",
+            "expanded_url" : "https://meiert.com/blog/important/",
             "display_url" : "meiert.com/en/blog/import…",
             "indices" : [
               "254",
@@ -241585,7 +241585,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/VXIFl8MydD",
-            "expanded_url" : "https://meiert.com/en/blog/good-embed-code/",
+            "expanded_url" : "https://meiert.com/blog/good-embed-code/",
             "display_url" : "meiert.com/en/blog/good-e…",
             "indices" : [
               "96",
@@ -242009,7 +242009,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/Z1qxPaG61R",
-            "expanded_url" : "https://meiert.com/en/blog/code-in-quarantine/",
+            "expanded_url" : "https://meiert.com/blog/code-in-quarantine/",
             "display_url" : "meiert.com/en/blog/code-i…",
             "indices" : [
               "247",
@@ -242234,7 +242234,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/EdUQlFjXuH",
-            "expanded_url" : "https://meiert.com/en/blog/responsible-javascript/",
+            "expanded_url" : "https://meiert.com/blog/responsible-javascript/",
             "display_url" : "meiert.com/en/blog/respon…",
             "indices" : [
               "87",
@@ -243143,7 +243143,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/aywbWRL4wy",
-            "expanded_url" : "https://meiert.com/en/blog/the-lost-paradigm/",
+            "expanded_url" : "https://meiert.com/blog/the-lost-paradigm/",
             "display_url" : "meiert.com/en/blog/the-lo…",
             "indices" : [
               "131",
