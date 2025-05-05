@@ -92885,7 +92885,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/NE0AGELKOe",
-            "expanded_url" : "https://meiert.com/en/indices/html-elements/",
+            "expanded_url" : "https://meiert.com/indices/html-elements/",
             "display_url" : "meiert.com/en/indices/htm…",
             "indices" : [
               "148",
@@ -103062,7 +103062,7 @@ module.exports = [
           },
           {
             "url" : "https://t.co/NE0AGF3lFM",
-            "expanded_url" : "https://meiert.com/en/indices/html-elements/",
+            "expanded_url" : "https://meiert.com/indices/html-elements/",
             "display_url" : "meiert.com/en/indices/htm…",
             "indices" : [
               "302",
@@ -108164,7 +108164,7 @@ module.exports = [
           },
           {
             "url" : "https://t.co/Nw8P4EjX0Q",
-            "expanded_url" : "https://meiert.com/en/indices/css-properties/",
+            "expanded_url" : "https://meiert.com/indices/css-properties/",
             "display_url" : "meiert.com/en/indices/css…",
             "indices" : [
               "119",
@@ -108173,7 +108173,7 @@ module.exports = [
           },
           {
             "url" : "https://t.co/NE0AGELKOe",
-            "expanded_url" : "https://meiert.com/en/indices/html-elements/",
+            "expanded_url" : "https://meiert.com/indices/html-elements/",
             "display_url" : "meiert.com/en/indices/htm…",
             "indices" : [
               "147",
@@ -108517,7 +108517,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/NE0AGF3lFM",
-            "expanded_url" : "https://meiert.com/en/indices/html-elements/",
+            "expanded_url" : "https://meiert.com/indices/html-elements/",
             "display_url" : "meiert.com/en/indices/htm…",
             "indices" : [
               "143",
@@ -108526,7 +108526,7 @@ module.exports = [
           },
           {
             "url" : "https://t.co/Nw8P4E2lCg",
-            "expanded_url" : "https://meiert.com/en/indices/css-properties/",
+            "expanded_url" : "https://meiert.com/indices/css-properties/",
             "display_url" : "meiert.com/en/indices/css…",
             "indices" : [
               "168",
@@ -111540,7 +111540,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/NE0AGELKOe",
-            "expanded_url" : "https://meiert.com/en/indices/html-elements/",
+            "expanded_url" : "https://meiert.com/indices/html-elements/",
             "display_url" : "meiert.com/en/indices/htm…",
             "indices" : [
               "99",
@@ -114140,7 +114140,7 @@ module.exports = [
           },
           {
             "url" : "https://t.co/Nw8P4EjX0Q",
-            "expanded_url" : "https://meiert.com/en/indices/css-properties/",
+            "expanded_url" : "https://meiert.com/indices/css-properties/",
             "display_url" : "meiert.com/en/indices/css…",
             "indices" : [
               "250",
@@ -157477,7 +157477,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/Nw8P4EkuQo",
-            "expanded_url" : "https://meiert.com/en/indices/css-properties/",
+            "expanded_url" : "https://meiert.com/indices/css-properties/",
             "display_url" : "meiert.com/en/indices/css…",
             "indices" : [
               "224",
@@ -172927,7 +172927,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/NE0AGELKOe",
-            "expanded_url" : "https://meiert.com/en/indices/html-elements/",
+            "expanded_url" : "https://meiert.com/indices/html-elements/",
             "display_url" : "meiert.com/en/indices/htm…",
             "indices" : [
               "230",
@@ -188120,7 +188120,7 @@ module.exports = [
           },
           {
             "url" : "https://t.co/NE0AGELKOe",
-            "expanded_url" : "https://meiert.com/en/indices/html-elements/",
+            "expanded_url" : "https://meiert.com/indices/html-elements/",
             "display_url" : "meiert.com/en/indices/htm…",
             "indices" : [
               "256",
@@ -189547,7 +189547,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/NE0AGELKOe",
-            "expanded_url" : "https://meiert.com/en/indices/html-elements/",
+            "expanded_url" : "https://meiert.com/indices/html-elements/",
             "display_url" : "meiert.com/en/indices/htm…",
             "indices" : [
               "268",
@@ -216069,7 +216069,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/NE0AGELKOe",
-            "expanded_url" : "https://meiert.com/en/indices/html-elements/",
+            "expanded_url" : "https://meiert.com/indices/html-elements/",
             "display_url" : "meiert.com/en/indices/htm…",
             "indices" : [
               "136",
