@@ -146285,7 +146285,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "http://t.co/PJ68raiB90",
-            "expanded_url" : "http://animatedtraffic.tumblr.com/",
+            "expanded_url" : "https://animatedtraffic.tumblr.com/",
             "display_url" : "animatedtraffic.tumblr.com",
             "indices" : [
               "75",
