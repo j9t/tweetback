@@ -17165,7 +17165,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/J4lBjAmb5n",
-            "expanded_url" : "https://books.apple.com/us/book/the-web-development-glossary/id1571261882?ls=1",
+            "expanded_url" : "https://books.apple.com/us/book/the-web-development-glossary/id1571261882",
             "display_url" : "books.apple.com/us/book/the-we…",
             "indices" : [
               "253",
@@ -17961,7 +17961,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/roujrMiIZu",
-            "expanded_url" : "https://books.apple.com/us/book/upgrade-your-html/id1569607027?ls=1",
+            "expanded_url" : "https://books.apple.com/us/book/upgrade-your-html/id1569607027",
             "display_url" : "books.apple.com/us/book/upgrad…",
             "indices" : [
               "254",
@@ -217215,7 +217215,7 @@ module.exports = [
         "urls" : [
           {
             "url" : "https://t.co/J4lBjADLWV",
-            "expanded_url" : "https://books.apple.com/us/book/the-web-development-glossary/id1571261882?ls=1",
+            "expanded_url" : "https://books.apple.com/us/book/the-web-development-glossary/id1571261882",
             "display_url" : "books.apple.com/us/book/the-we…",
             "indices" : [
               "127",
