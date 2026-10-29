@@ -32,8 +32,8 @@ module.exports = async function(data) {
 
 	let meta_description = `A read-only indieweb self-hosted archive of${ data.pagination && data.pagination.hrefs && data.pagination.hrefs.length ? ` all ${data.pagination.hrefs.length} of` : ""} ${data.metadata.username}’s tweets.`;
 	if (data.page.fileSlug === "tweet-pages" && data.tweet && data.tweet.full_text) {
-		// note that data.tweet.full_text is already HTML-escaped
-		meta_description = data.tweet.full_text.replace(/\s+/g, " ");
+		// Note that `data.tweet.full_text` is already HTML-escaped, except for quotes
+		meta_description = data.tweet.full_text.replace(/\s+/g, " ").replace(/"/g, "&quot;");
 	}
 
 	return `<!doctype html>
